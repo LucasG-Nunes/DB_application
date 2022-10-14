@@ -1,4 +1,4 @@
-export type IBird ={
+export interface IBird {
     id:number,
     scientificName: string,
     portugueseName: string,
