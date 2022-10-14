@@ -1,0 +1,46 @@
+.section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85vh;
+}
+
+.texts{
+
+    height: 85vh;
+    text-align: center;
+    background:linear-gradient(  #59b390,#56704b);
+    display: flex;
+    background-size: 300% 300%;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1rem;
+    padding-right:1rem;
+    animation: colors 1s ease infinite;
+}
+.texts h4{
+    letter-spacing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem ;
+
+}
+
+.img{
+    width: 20rem;   
+    padding: 4rem;
+    border-top-left-radius: 20rem;
+    border-bottom-right-radius: 20rem;
+    background-color: pink;
+}
+
+@keyframes colors{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}

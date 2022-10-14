@@ -1,19 +1,18 @@
 import { Request, Response } from "express";
 
-import { BirdModel } from "../models/bird";
+import { BirdModel } from "../models/Bird";
 
 import Logger from "../../config/logger";
 
 
 export async function createBird(req:Request, res:Response){
-   try {
-    const data = req.body;
-    const bird = await BirdModel.create(data);
-    return res.status(201).json(bird)  
-   } catch (error:any) {
-    Logger.error(`Erro no sistema: ${error.message}`)
-    res.status(500).json({error: "Por favor, tente mais tarde!"})
-   }
+  try {
+   const data = req.body
+   const bird = await BirdModel.create(data)
+   return res.status(201).json(data)
+  } catch (error:any) {
+   Logger.error(`Erro no sistema: ${error}`)
+  }
 }
 
 export async function findBirdById(req:Request, res:Response){

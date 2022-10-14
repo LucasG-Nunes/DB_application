@@ -1,9 +1,9 @@
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import Avistamento from "../pages/Avistamento/Avistamento"
 import Home from "../pages/Home/Home"
-type Props = {}
 
-const Rotas = (props: Props) => {
+
+const Rotas = () => {
   return (
     <BrowserRouter>
         <Routes>
