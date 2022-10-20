@@ -1,6 +1,6 @@
 import style from "./FirstContainer.module.css"
 import { IContainer } from "../../interfaces/IContainer"
-
+import {NavLink as Link} from "react-router-dom"
 
 const FirstContainer = ({ title, paragraph }: IContainer) => {
     return (
@@ -9,8 +9,8 @@ const FirstContainer = ({ title, paragraph }: IContainer) => {
                 <h4> {title} </h4>
                 <p>{paragraph}</p>
                 <div className={style.buttons}>
-                    <button className={style.buttonCadastrar}>Cadastrar novo avistamento</button>
-                    <button  className={style.buttonCadastrar}>Procurar algum passáro no banco de dados</button>
+                    <Link to="/avistamento" className={style.buttonCadastrar}>Cadastrar novo avistamento</Link>
+                    <Link to="/SearchBird"  className={style.buttonCadastrar}>Procurar algum passáro no banco de dados</Link>
                 </div>
             </article>
 

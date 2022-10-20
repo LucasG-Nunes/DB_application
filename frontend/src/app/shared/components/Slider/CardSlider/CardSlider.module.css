@@ -1,17 +1,47 @@
 .card{
-    background-color: pink;
     max-width:100%;
     text-align: center;
-    height: 30em;
-    margin-bottom: 2em;
+    display: flex;
+    align-items: center ;
+    justify-content:center;
+    flex-direction: column;
+    height: 50vh;
+    margin: 2em;
+    background-color: #6494a4;
+    border-radius: 1.3rem;
+    padding: 2rem;
+    transition: 1s;
 }
-
+.card:hover{
+    transform: scale(1.1);
+}
 .title{
     color: white;
+    background-color: pink;
+    padding: 1.3rem;
+    border-top-left-radius: 1.4rem;
+    border-bottom-right-radius: 1.4rem;
 }
-.image{
-    width: 100%;
-    height: 90%;
+.img{
+    width: 70%;
+    height: 50%;
     margin-top: 1em;
     margin-bottom: 1em;
+    border-radius: 1rem;
+
+}
+
+
+.Link{
+    text-decoration: none;
+    background-color: pink;
+    padding: 1.3rem;
+    border-top-left-radius: 1.4rem;
+    border-bottom-right-radius: 1.4rem;
+    margin-bottom: 1rem;
+    transition: 1s;
+}
+
+.Link:hover{
+    transform: rotate(-10deg);
 }

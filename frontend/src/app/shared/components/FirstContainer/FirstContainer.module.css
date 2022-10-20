@@ -3,11 +3,12 @@
     justify-content: space-around;
     align-items: center;
     height: 95vh;
-    background-color: #fff;
+    background: linear-gradient(to bottom, #cb3049, #f8afbb,#d8aab3);
+
 }
 
 .texts{
-
+    max-width: 20rem;
     height: 95vh;
     text-align: center;
     background:linear-gradient(45deg,  #59b390,#56704b , pink);
@@ -18,6 +19,7 @@
     padding-left: 1rem;
     padding-right:1rem;
     animation: colors 4s ease infinite;
+
 }
 .texts h4{
     letter-spacing: 10px;
@@ -36,17 +38,22 @@
 .buttonCadastrar{
     background-color: pink;
     color: black;
+    font-size: 0.8rem;
     margin: 1rem;
-    height: 3rem;
+    height: 100%;
     transition: 1s;
     border: none;
     padding-left: 1rem;
     padding-right: 1rem;
-
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition:1s;
 }
 .buttonCadastrar:hover{
     background-color: #59b390;
     color: black;
+    transform: rotate(-20deg);
 }
 .img{
     width: 20rem;   

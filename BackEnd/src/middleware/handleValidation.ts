@@ -15,4 +15,4 @@ export const validate = (req:Request,res:Response,next:NextFunction) =>{
     return res.status(422).json({
         errors: extratectErrors,
     })
-}
+}/*perguntar*/

@@ -1,5 +1,5 @@
 export interface IBird {
-    id:number,
+    _id:string,
     scientificName: string,
     portugueseName: string,
     size: number,
@@ -8,3 +8,4 @@ export interface IBird {
     rare: boolean,
     image: string
 }
+
