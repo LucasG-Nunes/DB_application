@@ -3,9 +3,10 @@ export interface IBird {
     scientificName: string,
     portugueseName: string,
     size: number,
-    habitats: Array<string>,
+    habitats: string,
     threatened: boolean,
     rare: boolean,
-    image: string
+    image: string,
+    avistamento:string
 }
 

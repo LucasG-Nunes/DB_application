@@ -4,7 +4,7 @@ type InfoBird = {
   scientificName?: string,
   portuguesName?: string,
   size?:number,
-  habitats?: Array<string>,
+  habitats?:string,
   threatened?: boolean,
   rare?: boolean,
   image?: string

@@ -13,7 +13,7 @@ const FormSearchBirds = () => {
 
     const settings = {
       spaceBetween:50,
-      slidesPerView:1,
+      slidesPerView:3,
       navigation: true,
       loop:true,
       draggable:true,
@@ -43,8 +43,10 @@ const FormSearchBirds = () => {
     <>
     
     <form className={style.form} onSubmit={ handleSubmit} >
+      <header>
+        <h1>procure o seu passaro</h1>
+      </header>
     <input className={style.input} type="text" value={value} onChange={handleChange} />
-    <button className={style.button} type='submit'>Procurar</button>
     </form>
 
     {verificator == "true" ? <iframe className={style.iframe} src="https://giphy.com/embed/Ex1w4IdYJDfa0"></iframe> : null }

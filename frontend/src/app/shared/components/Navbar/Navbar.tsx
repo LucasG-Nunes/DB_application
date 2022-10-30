@@ -1,9 +1,19 @@
 import style from "./Navbar.module.css"
-type Props = {}
+import { Link } from "react-router-dom"
 
-const Navbar = (props: Props) => {
+const Navbar = () => {
   return (
-    <div className={style.navbar}>Navbar</div>
+    <nav className={style.navbar}>
+      <h1>LOGO</h1>
+
+    <article>
+      <Link className={style.Link} to="/">Home</Link>
+      <Link className={style.Link} to="/avistamento">Cadastrar Avistamento</Link>
+      <Link className={style.Link} to="/SearchBird">Procure um passaro</Link>
+    </article>
+
+
+    </nav>
   )
 }
 

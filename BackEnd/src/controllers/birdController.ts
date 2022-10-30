@@ -35,7 +35,7 @@ export async function getBirds(req:Request, res:Response){
    try {
       const birds = await BirdModel.find()
       res.status(200).json(birds)
-   } catch (error:any) {
+   } catch (error:any) {   
       Logger.error(`Erro no sistema: ${error.message}`)
       res.status(500).json({error: "Por favor, tente mais tarde!"})
 
