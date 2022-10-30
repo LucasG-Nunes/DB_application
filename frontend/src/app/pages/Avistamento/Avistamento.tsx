@@ -1,14 +1,14 @@
-import React from 'react'
+
 import Footer from '../../shared/components/Footer/Footer'
+import FormCadastrarAvistamento from '../../shared/components/FormCadastrarAvistamento/FormCadastrarAvistamento'
 import Navbar from '../../shared/components/Navbar/Navbar'
 
-type Props = {}
 
-const Avistamento = (props: Props) => {
+const Avistamento = () => {
   return (
     <>
     <Navbar/>
-    <iframe src="https://giphy.com/embed/Ex1w4IdYJDfa0"    ></iframe>
+    <FormCadastrarAvistamento/>
     <Footer/>
     </>
   )

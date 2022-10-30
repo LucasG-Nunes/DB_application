@@ -3,9 +3,9 @@ import FirstContainer from "../../shared/components/FirstContainer/FirstContaine
 import Footer from "../../shared/components/Footer/Footer"
 import Navbar from "../../shared/components/Navbar/Navbar"
 
-type Props = {}
 
-function Home({}: Props) {
+
+function Home() {
   return (
     <>
     <Navbar/>

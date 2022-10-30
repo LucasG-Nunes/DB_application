@@ -11,16 +11,28 @@ type InfoBird = {
 }
 
 const CardInfoBird = ({scientificName,portuguesName,size,habitats,threatened,rare,image}:InfoBird ) => {
+
+  
   return (
-    <div className={style.card}>
-      <h1>{portuguesName}</h1>
+    <section className={style.card}>
+      
+
       <img src={image}></img>
-      <span>{scientificName}</span>
-      <span>{size}</span>
-      <span>{habitats}</span>
-      <span>{threatened}</span>
-      <span>{rare}</span>
-    </div>
+
+
+      <article className={style.articleInfos}>
+
+        <header>
+          <h1 className={style.h1}>{portuguesName}</h1>
+        </header>
+
+          <span>Nome Cientifico: {scientificName}</span>
+          <span>Tamanho: {size}</span>
+          <span>Habitats: {habitats}</span>
+          <span>Está em extição? {threatened === true ? "Sim, está em extinção" : "Não está em extinção"}</span>
+          <span>É considerado raro? {rare === true ? "Sim, é considerada rara" : "Não é considerada rara"}</span>
+      </article>
+    </section>
   )
 }
 

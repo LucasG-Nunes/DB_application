@@ -1,0 +1,15 @@
+.background{
+    background-color: #EAFDE6;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: #88C425 ;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}

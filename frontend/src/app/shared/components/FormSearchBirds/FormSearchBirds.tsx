@@ -1,5 +1,5 @@
 
-import { ChangeEvent, FormEvent, useEffect, useState } from "react";
+import { ChangeEvent, FormEvent, useState } from "react";
 import useAxios from "../../hooks/useAxios";
 import style from "./FormSearchBirds.module.css"
 import Slider from "../Slider/Slider";
@@ -21,8 +21,6 @@ const FormSearchBirds = () => {
         clickable:true,
       }
     };
-
-
 
      const handleChange = (e:ChangeEvent<HTMLInputElement>) =>{
         setValue(e.target.value)
@@ -48,6 +46,7 @@ const FormSearchBirds = () => {
     <input className={style.input} type="text" value={value} onChange={handleChange} />
     <button className={style.button} type='submit'>Procurar</button>
     </form>
+
     {verificator == "true" ? <iframe className={style.iframe} src="https://giphy.com/embed/Ex1w4IdYJDfa0"></iframe> : null }
     {verificator == "false" && birds ? 
 
@@ -71,23 +70,3 @@ const FormSearchBirds = () => {
 }
 
 export default FormSearchBirds
-
-
-    /*CONFIGURAR CARROSEL 
-    
-    
-    {value && birds ? 
-         <Slider settings={settings}>
-
-         {birds.map((bird)=>
-            bird.portugueseName.includes(value) ?
-            <SwiperSlide>
-                <CardSlider identifier={bird._id} img={bird.image} title={bird.portugueseName}/>
-            </SwiperSlide> 
-            :
-            <p>não temos esse passáro registrado</p>
-     )}
-            </Slider>
-        : null}
-        
-        */
