@@ -1,5 +1,6 @@
 import style from "./FormCadastrarAvistamento.module.css"
-import {useState} from "react"
+import {useEffect, useState} from "react"
+import axios from "axios";
 
 
 declare global {    
@@ -7,18 +8,17 @@ declare global {
       cloudinary: any;
     }
   }
-
-  export interface IBird {
+export interface IBird {
     _id:string,
     scientificName: string,
     portugueseName: string,
     size: number,
-    habitats: Array<string>,
+    habitats: string,
     threatened: boolean,
     rare: boolean,
-    image: string
+    image: string,
+    avistamento:string
 }
-
 
 
 const FormCadastrarAvistamento = () => {
@@ -28,20 +28,39 @@ const FormCadastrarAvistamento = () => {
   const [ portugueseName,setPortugueseName] = useState<string | undefined>()
   const [ size,setSize ] = useState<string | undefined>()
   const [habitats,setHabitats] = useState<string|undefined>()
-  const [threatened,setThreatened] = useState<boolean | undefined>(false)
+  const [threatened,setThreatened] = useState<boolean | undefined>()
   const [rare, setRare] = useState<boolean | undefined>()
   const [avistamento,setAvistamento] = useState<string|undefined>()
+  
+  const bird= {
+    scientificName: scientificName,
+    portugueseName: portugueseName,
+    size:size,
+    habitats:habitats,
+    threatened: threatened,
+    rare: rare,
+    image: images,
+    avistamento : avistamento
+  }
+  
+  const createBird =  async () =>{
+    try{
+      axios.post("http://localhost:3000/bird",bird).then((response)=> console.log(response))
+    }catch(error){
+      console.log(error)
+    }
+  }
+  console.log(rare,threatened)
 
   const handleSubmit = (event:any) =>{
     event.preventDefault()
-    console.log(scientificName,portugueseName,size,habitats,threatened,rare,avistamento,images)
     setScientificName("")
     setPortugueseName("")
     setSize("")
     setHabitats("")
-    setThreatened(false)
-    setRare(false)
     setAvistamento("")
+    createBird()
+
   }
 
     const handleOpenWidget = (event:any) =>{ 

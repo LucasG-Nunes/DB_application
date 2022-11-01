@@ -1,10 +1,10 @@
 import style from "./Navbar.module.css"
 import { Link } from "react-router-dom"
-
+import Logo from "../../images/Logo.png"
 const Navbar = () => {
   return (
     <nav className={style.navbar}>
-      <h1>LOGO</h1>
+      <img className={style.logo} src={Logo} alt="" />
 
     <article>
       <Link className={style.Link} to="/">Home</Link>

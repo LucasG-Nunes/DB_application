@@ -13,6 +13,7 @@ const Rotas = () => {
             <Route path="/avistamento" element={<Avistamento/>}/>
             <Route path="/InfoBird/:id" element={<InfoBird/>}/>
             <Route path="/SearchBird" element={<SearchBirds/>}/>
+            <Route path="/SearchBird/InfoBird/:id" element={<InfoBird/>}/>
         </Routes>
     </BrowserRouter>
   )

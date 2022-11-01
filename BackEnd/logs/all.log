@@ -1726,3 +1726,1989 @@
 [35m[39m
 2022-10-30 16:45:28:4528 - [35mhttp[39m : [35mGET /bird/ 200 10811 - 78.107 ms[39m
 [35m[39m
+2022-10-31 07:10:46:1046 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2022-10-31 07:10:46:1046 - [32minfo[39m : [32mA aplicação está rodando na porta: 3000[39m
+2022-10-31 07:15:38:1538 - [35mhttp[39m : [35mGET /bird 200 10811 - 80.501 ms[39m
+[35m[39m
+2022-10-31 07:15:38:1538 - [35mhttp[39m : [35mGET /bird 304 - - 51.511 ms[39m
+[35m[39m
+2022-10-31 07:15:54:1554 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 200 377 - 97.008 ms[39m
+[35m[39m
+2022-10-31 07:15:54:1554 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 46.449 ms[39m
+[35m[39m
+2022-10-31 07:16:00:160 - [35mhttp[39m : [35mGET /bird 304 - - 47.275 ms[39m
+[35m[39m
+2022-10-31 07:16:00:160 - [35mhttp[39m : [35mGET /bird 304 - - 47.038 ms[39m
+[35m[39m
+2022-10-31 07:16:02:162 - [35mhttp[39m : [35mGET /bird/635ed3e3fc35d17105453a96 200 358 - 45.315 ms[39m
+[35m[39m
+2022-10-31 07:16:02:162 - [35mhttp[39m : [35mGET /bird/635ed3e3fc35d17105453a96 304 - - 46.773 ms[39m
+[35m[39m
+2022-10-31 07:16:03:163 - [35mhttp[39m : [35mGET /bird 304 - - 49.003 ms[39m
+[35m[39m
+2022-10-31 07:16:03:163 - [35mhttp[39m : [35mGET /bird 304 - - 45.413 ms[39m
+[35m[39m
+2022-10-31 07:16:05:165 - [35mhttp[39m : [35mGET /bird 304 - - 45.387 ms[39m
+[35m[39m
+2022-10-31 07:16:06:166 - [35mhttp[39m : [35mGET /bird 304 - - 47.191 ms[39m
+[35m[39m
+2022-10-31 07:16:06:166 - [35mhttp[39m : [35mGET /bird 304 - - 45.737 ms[39m
+[35m[39m
+2022-10-31 07:16:06:166 - [35mhttp[39m : [35mGET /bird 304 - - 45.385 ms[39m
+[35m[39m
+2022-10-31 07:16:07:167 - [35mhttp[39m : [35mGET /bird 304 - - 46.082 ms[39m
+[35m[39m
+2022-10-31 07:16:07:167 - [35mhttp[39m : [35mGET /bird 304 - - 46.944 ms[39m
+[35m[39m
+2022-10-31 07:16:10:1610 - [35mhttp[39m : [35mGET /bird 304 - - 46.001 ms[39m
+[35m[39m
+2022-10-31 07:16:10:1610 - [35mhttp[39m : [35mGET /bird 304 - - 44.747 ms[39m
+[35m[39m
+2022-10-31 07:16:10:1610 - [35mhttp[39m : [35mGET /bird 304 - - 44.739 ms[39m
+[35m[39m
+2022-10-31 07:16:11:1611 - [35mhttp[39m : [35mGET /bird 304 - - 61.229 ms[39m
+[35m[39m
+2022-10-31 07:16:11:1611 - [35mhttp[39m : [35mGET /bird 304 - - 44.662 ms[39m
+[35m[39m
+2022-10-31 07:16:11:1611 - [35mhttp[39m : [35mGET /bird 304 - - 46.559 ms[39m
+[35m[39m
+2022-10-31 07:16:13:1613 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 200 371 - 44.630 ms[39m
+[35m[39m
+2022-10-31 07:16:13:1613 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 44.882 ms[39m
+[35m[39m
+2022-10-31 07:16:14:1614 - [35mhttp[39m : [35mGET /bird 304 - - 48.204 ms[39m
+[35m[39m
+2022-10-31 07:16:14:1614 - [35mhttp[39m : [35mGET /bird 304 - - 68.729 ms[39m
+[35m[39m
+2022-10-31 07:46:37:4637 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 71.589 ms[39m
+[35m[39m
+2022-10-31 07:46:37:4637 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 63.747 ms[39m
+[35m[39m
+2022-10-31 07:46:43:4643 - [35mhttp[39m : [35mGET /bird 304 - - 104.154 ms[39m
+[35m[39m
+2022-10-31 07:46:43:4643 - [35mhttp[39m : [35mGET /bird 304 - - 149.149 ms[39m
+[35m[39m
+2022-10-31 07:46:45:4645 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 84.836 ms[39m
+[35m[39m
+2022-10-31 07:46:45:4645 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 147.912 ms[39m
+[35m[39m
+2022-10-31 07:47:37:4737 - [35mhttp[39m : [35mGET /bird 304 - - 56.974 ms[39m
+[35m[39m
+2022-10-31 07:47:37:4737 - [35mhttp[39m : [35mGET /bird 304 - - 69.663 ms[39m
+[35m[39m
+2022-10-31 07:47:43:4743 - [35mhttp[39m : [35mGET /bird 304 - - 505.326 ms[39m
+[35m[39m
+2022-10-31 07:47:44:4744 - [35mhttp[39m : [35mGET /bird 304 - - 158.772 ms[39m
+[35m[39m
+2022-10-31 07:51:39:5139 - [35mhttp[39m : [35mGET /bird 304 - - 55.841 ms[39m
+[35m[39m
+2022-10-31 07:51:39:5139 - [35mhttp[39m : [35mGET /bird 304 - - 62.541 ms[39m
+[35m[39m
+2022-10-31 07:51:40:5140 - [35mhttp[39m : [35mGET /bird 304 - - 55.645 ms[39m
+[35m[39m
+2022-10-31 07:51:40:5140 - [35mhttp[39m : [35mGET /bird 304 - - 55.218 ms[39m
+[35m[39m
+2022-10-31 07:51:41:5141 - [35mhttp[39m : [35mGET /bird 304 - - 55.815 ms[39m
+[35m[39m
+2022-10-31 07:51:41:5141 - [35mhttp[39m : [35mGET /bird 304 - - 61.119 ms[39m
+[35m[39m
+2022-10-31 07:51:42:5142 - [35mhttp[39m : [35mGET /bird 304 - - 54.600 ms[39m
+[35m[39m
+2022-10-31 07:51:42:5142 - [35mhttp[39m : [35mGET /bird 304 - - 59.042 ms[39m
+[35m[39m
+2022-10-31 08:03:26:326 - [35mhttp[39m : [35mPOST /bird 201 283 - 80.538 ms[39m
+[35m[39m
+2022-10-31 08:04:25:425 - [35mhttp[39m : [35mGET /bird 200 11212 - 43.782 ms[39m
+[35m[39m
+2022-10-31 08:04:25:425 - [35mhttp[39m : [35mGET /bird 304 - - 43.694 ms[39m
+[35m[39m
+2022-10-31 08:04:55:455 - [35mhttp[39m : [35mGET /bird 304 - - 42.931 ms[39m
+[35m[39m
+2022-10-31 08:04:55:455 - [35mhttp[39m : [35mGET /bird 304 - - 43.076 ms[39m
+[35m[39m
+2022-10-31 08:04:56:456 - [35mhttp[39m : [35mGET /bird 304 - - 45.001 ms[39m
+[35m[39m
+2022-10-31 08:04:56:456 - [35mhttp[39m : [35mGET /bird 304 - - 44.224 ms[39m
+[35m[39m
+2022-10-31 08:05:01:51 - [35mhttp[39m : [35mGET /bird 304 - - 42.763 ms[39m
+[35m[39m
+2022-10-31 08:05:01:51 - [35mhttp[39m : [35mGET /bird 304 - - 52.518 ms[39m
+[35m[39m
+2022-10-31 08:05:57:557 - [31merror[39m : [31mErro no sistema: ValidationError: habitats: Path `habitats` (`é para ser raro e extinto`) is longer than the maximum allowed length (20).[39m
+2022-10-31 08:07:58:758 - [35mhttp[39m : [35mPOST /bird 422 88 - 3.086 ms[39m
+[35m[39m
+2022-10-31 08:09:07:97 - [35mhttp[39m : [35mPOST /bird 201 265 - 54.475 ms[39m
+[35m[39m
+2022-10-31 08:09:51:951 - [35mhttp[39m : [35mPOST /bird - - - - ms[39m
+[35m[39m
+2022-10-31 08:10:25:1025 - [35mhttp[39m : [35mPOST /bird 201 251 - 47.968 ms[39m
+[35m[39m
+2022-10-31 08:12:27:1227 - [31merror[39m : [31mErro no sistema: ValidationError: habitats: Path `habitats` (`cabo de santo agostinho`) is longer than the maximum allowed length (20).[39m
+2022-10-31 08:13:22:1322 - [35mhttp[39m : [35mPOST /bird 201 271 - 48.894 ms[39m
+[35m[39m
+2022-10-31 08:14:04:144 - [35mhttp[39m : [35mPOST /bird 201 260 - 49.694 ms[39m
+[35m[39m
+2022-10-31 08:14:52:1452 - [35mhttp[39m : [35mPOST /bird 422 88 - 1.152 ms[39m
+[35m[39m
+2022-10-31 08:15:28:1528 - [35mhttp[39m : [35mPOST /bird 422 167 - 1.029 ms[39m
+[35m[39m
+2022-10-31 08:16:40:1640 - [35mhttp[39m : [35mPOST /bird 201 244 - 47.697 ms[39m
+[35m[39m
+2022-10-31 08:17:00:170 - [35mhttp[39m : [35mGET /bird 200 11940 - 42.978 ms[39m
+[35m[39m
+2022-10-31 08:17:00:170 - [35mhttp[39m : [35mGET /bird 304 - - 42.896 ms[39m
+[35m[39m
+2022-10-31 08:17:20:1720 - [35mhttp[39m : [35mGET /bird 304 - - 43.279 ms[39m
+[35m[39m
+2022-10-31 08:17:20:1720 - [35mhttp[39m : [35mGET /bird 304 - - 45.244 ms[39m
+[35m[39m
+2022-10-31 08:17:22:1722 - [35mhttp[39m : [35mGET /bird 304 - - 44.738 ms[39m
+[35m[39m
+2022-10-31 08:17:22:1722 - [35mhttp[39m : [35mGET /bird 304 - - 43.368 ms[39m
+[35m[39m
+2022-10-31 08:17:23:1723 - [35mhttp[39m : [35mGET /bird 304 - - 54.721 ms[39m
+[35m[39m
+2022-10-31 08:17:23:1723 - [35mhttp[39m : [35mGET /bird 304 - - 44.033 ms[39m
+[35m[39m
+2022-10-31 08:17:48:1748 - [35mhttp[39m : [35mGET /bird 304 - - 42.692 ms[39m
+[35m[39m
+2022-10-31 08:17:48:1748 - [35mhttp[39m : [35mGET /bird 304 - - 45.038 ms[39m
+[35m[39m
+2022-10-31 08:19:14:1914 - [35mhttp[39m : [35mGET /bird 304 - - 43.812 ms[39m
+[35m[39m
+2022-10-31 08:19:15:1915 - [35mhttp[39m : [35mGET /bird 304 - - 42.979 ms[39m
+[35m[39m
+2022-10-31 08:19:15:1915 - [35mhttp[39m : [35mGET /bird 304 - - 45.755 ms[39m
+[35m[39m
+2022-10-31 08:19:17:1917 - [35mhttp[39m : [35mPOST /bird - - - - ms[39m
+[35m[39m
+2022-10-31 08:19:17:1917 - [35mhttp[39m : [35mGET /bird 304 - - 176.990 ms[39m
+[35m[39m
+2022-10-31 08:19:18:1918 - [35mhttp[39m : [35mGET /bird 304 - - 48.223 ms[39m
+[35m[39m
+2022-10-31 08:19:24:1924 - [35mhttp[39m : [35mGET /bird 304 - - 42.591 ms[39m
+[35m[39m
+2022-10-31 08:19:24:1924 - [35mhttp[39m : [35mGET /bird 304 - - 54.033 ms[39m
+[35m[39m
+2022-10-31 08:19:39:1939 - [35mhttp[39m : [35mGET /bird 304 - - 42.848 ms[39m
+[35m[39m
+2022-10-31 08:19:55:1955 - [35mhttp[39m : [35mGET /bird 304 - - 53.940 ms[39m
+[35m[39m
+2022-10-31 08:20:11:2011 - [35mhttp[39m : [35mGET /bird 304 - - 47.071 ms[39m
+[35m[39m
+2022-10-31 08:20:54:2054 - [35mhttp[39m : [35mGET /bird 304 - - 43.075 ms[39m
+[35m[39m
+2022-10-31 08:21:00:210 - [35mhttp[39m : [35mGET /bird 304 - - 52.161 ms[39m
+[35m[39m
+2022-10-31 08:21:04:214 - [35mhttp[39m : [35mGET /bird 304 - - 44.014 ms[39m
+[35m[39m
+2022-10-31 08:21:09:219 - [35mhttp[39m : [35mGET /bird 304 - - 59.506 ms[39m
+[35m[39m
+2022-10-31 08:22:21:2221 - [35mhttp[39m : [35mGET /bird 304 - - 47.890 ms[39m
+[35m[39m
+2022-10-31 08:22:21:2221 - [35mhttp[39m : [35mGET /bird 304 - - 45.178 ms[39m
+[35m[39m
+2022-10-31 08:22:34:2234 - [35mhttp[39m : [35mGET /bird 304 - - 47.261 ms[39m
+[35m[39m
+2022-10-31 08:22:34:2234 - [35mhttp[39m : [35mGET /bird 304 - - 44.902 ms[39m
+[35m[39m
+2022-10-31 08:22:49:2249 - [35mhttp[39m : [35mGET /bird 304 - - 42.839 ms[39m
+[35m[39m
+2022-10-31 08:24:54:2454 - [35mhttp[39m : [35mGET /bird 304 - - 54.858 ms[39m
+[35m[39m
+2022-10-31 08:25:01:251 - [35mhttp[39m : [35mGET /bird 304 - - 602.601 ms[39m
+[35m[39m
+2022-10-31 08:25:02:252 - [35mhttp[39m : [35mGET /bird 304 - - 218.452 ms[39m
+[35m[39m
+2022-10-31 08:25:10:2510 - [35mhttp[39m : [35mGET /bird 304 - - 159.774 ms[39m
+[35m[39m
+2022-10-31 08:25:10:2510 - [35mhttp[39m : [35mGET /bird 304 - - 167.392 ms[39m
+[35m[39m
+2022-10-31 08:28:06:286 - [35mhttp[39m : [35mGET /bird 304 - - 196.214 ms[39m
+[35m[39m
+2022-10-31 08:28:07:287 - [35mhttp[39m : [35mGET /bird 304 - - 401.935 ms[39m
+[35m[39m
+2022-10-31 08:28:07:287 - [35mhttp[39m : [35mGET /bird 304 - - 269.976 ms[39m
+[35m[39m
+2022-10-31 08:28:10:2810 - [35mhttp[39m : [35mGET /bird 304 - - 229.107 ms[39m
+[35m[39m
+2022-10-31 08:28:10:2810 - [35mhttp[39m : [35mGET /bird - - - - ms[39m
+[35m[39m
+2022-10-31 08:28:10:2810 - [35mhttp[39m : [35mGET /bird - - - - ms[39m
+[35m[39m
+2022-10-31 08:28:11:2811 - [35mhttp[39m : [35mGET /bird - - - - ms[39m
+[35m[39m
+2022-10-31 08:28:11:2811 - [35mhttp[39m : [35mGET /bird 200 11940 - 324.926 ms[39m
+[35m[39m
+2022-10-31 08:28:12:2812 - [35mhttp[39m : [35mGET /bird 304 - - 601.278 ms[39m
+[35m[39m
+2022-10-31 08:31:11:3111 - [35mhttp[39m : [35mGET /bird 304 - - 770.869 ms[39m
+[35m[39m
+2022-10-31 08:31:16:3116 - [35mhttp[39m : [35mGET /bird 304 - - 546.609 ms[39m
+[35m[39m
+2022-10-31 08:31:17:3117 - [35mhttp[39m : [35mGET /bird 304 - - 114.253 ms[39m
+[35m[39m
+2022-10-31 08:32:09:329 - [35mhttp[39m : [35mGET /bird 304 - - 118.432 ms[39m
+[35m[39m
+2022-10-31 08:32:51:3251 - [35mhttp[39m : [35mGET /bird 304 - - 350.853 ms[39m
+[35m[39m
+2022-10-31 08:33:04:334 - [35mhttp[39m : [35mGET /bird 304 - - 397.746 ms[39m
+[35m[39m
+2022-10-31 08:33:45:3345 - [35mhttp[39m : [35mGET /bird 304 - - 2481.920 ms[39m
+[35m[39m
+2022-10-31 08:33:45:3345 - [35mhttp[39m : [35mGET /bird 304 - - 155.540 ms[39m
+[35m[39m
+2022-10-31 08:34:10:3410 - [35mhttp[39m : [35mGET /bird 304 - - 550.769 ms[39m
+[35m[39m
+2022-10-31 08:34:10:3410 - [35mhttp[39m : [35mGET /bird 304 - - 532.874 ms[39m
+[35m[39m
+2022-10-31 08:34:18:3418 - [35mhttp[39m : [35mGET /bird 304 - - 303.722 ms[39m
+[35m[39m
+2022-10-31 08:34:19:3419 - [35mhttp[39m : [35mGET /bird 304 - - 1030.163 ms[39m
+[35m[39m
+2022-10-31 08:35:01:351 - [35mhttp[39m : [35mGET /bird 304 - - 936.022 ms[39m
+[35m[39m
+2022-10-31 08:35:02:352 - [35mhttp[39m : [35mGET /bird 304 - - 166.923 ms[39m
+[35m[39m
+2022-10-31 08:35:33:3533 - [35mhttp[39m : [35mGET /bird 304 - - 113.042 ms[39m
+[35m[39m
+2022-10-31 08:35:33:3533 - [35mhttp[39m : [35mGET /bird 304 - - 60.572 ms[39m
+[35m[39m
+2022-10-31 08:35:59:3559 - [35mhttp[39m : [35mGET /bird 304 - - 61.824 ms[39m
+[35m[39m
+2022-10-31 08:35:59:3559 - [35mhttp[39m : [35mGET /bird 304 - - 59.021 ms[39m
+[35m[39m
+2022-10-31 08:36:23:3623 - [35mhttp[39m : [35mGET /bird 304 - - 56.625 ms[39m
+[35m[39m
+2022-10-31 08:36:23:3623 - [35mhttp[39m : [35mGET /bird 304 - - 199.844 ms[39m
+[35m[39m
+2022-10-31 08:36:52:3652 - [35mhttp[39m : [35mGET /bird 304 - - 98.613 ms[39m
+[35m[39m
+2022-10-31 08:36:52:3652 - [35mhttp[39m : [35mGET /bird 304 - - 58.528 ms[39m
+[35m[39m
+2022-10-31 08:37:25:3725 - [35mhttp[39m : [35mGET /bird 304 - - 210.708 ms[39m
+[35m[39m
+2022-10-31 08:39:46:3946 - [35mhttp[39m : [35mGET /bird 304 - - 80.637 ms[39m
+[35m[39m
+2022-10-31 08:40:17:4017 - [35mhttp[39m : [35mGET /bird 304 - - 51.460 ms[39m
+[35m[39m
+2022-10-31 08:40:35:4035 - [35mhttp[39m : [35mGET /bird 304 - - 47.497 ms[39m
+[35m[39m
+2022-10-31 08:40:51:4051 - [35mhttp[39m : [35mGET /bird 304 - - 49.039 ms[39m
+[35m[39m
+2022-10-31 08:41:12:4112 - [35mhttp[39m : [35mGET /bird 304 - - 45.165 ms[39m
+[35m[39m
+2022-10-31 08:41:57:4157 - [35mhttp[39m : [35mGET /bird 304 - - 50.936 ms[39m
+[35m[39m
+2022-10-31 08:42:00:420 - [35mhttp[39m : [35mGET /bird 304 - - 50.339 ms[39m
+[35m[39m
+2022-10-31 08:42:10:4210 - [35mhttp[39m : [35mGET /bird 304 - - 45.067 ms[39m
+[35m[39m
+2022-10-31 08:43:13:4313 - [35mhttp[39m : [35mGET /bird 304 - - 44.538 ms[39m
+[35m[39m
+2022-10-31 08:43:44:4344 - [35mhttp[39m : [35mGET /bird 304 - - 75.548 ms[39m
+[35m[39m
+2022-10-31 08:43:44:4344 - [35mhttp[39m : [35mGET /bird 304 - - 45.931 ms[39m
+[35m[39m
+2022-10-31 08:44:54:4454 - [35mhttp[39m : [35mGET /bird 304 - - 44.386 ms[39m
+[35m[39m
+2022-10-31 08:44:54:4454 - [35mhttp[39m : [35mGET /bird 304 - - 44.296 ms[39m
+[35m[39m
+2022-10-31 08:45:04:454 - [35mhttp[39m : [35mGET /bird 304 - - 59.236 ms[39m
+[35m[39m
+2022-10-31 08:45:08:458 - [35mhttp[39m : [35mGET /bird 304 - - 59.649 ms[39m
+[35m[39m
+2022-10-31 08:45:09:459 - [35mhttp[39m : [35mGET /bird 304 - - 51.632 ms[39m
+[35m[39m
+2022-10-31 08:46:03:463 - [35mhttp[39m : [35mGET /bird 304 - - 49.919 ms[39m
+[35m[39m
+2022-10-31 08:46:03:463 - [35mhttp[39m : [35mGET /bird 304 - - 51.516 ms[39m
+[35m[39m
+2022-10-31 08:47:03:473 - [35mhttp[39m : [35mGET /bird 304 - - 54.207 ms[39m
+[35m[39m
+2022-10-31 08:49:14:4914 - [35mhttp[39m : [35mGET /bird 304 - - 45.710 ms[39m
+[35m[39m
+2022-10-31 08:49:14:4914 - [35mhttp[39m : [35mGET /bird 304 - - 45.148 ms[39m
+[35m[39m
+2022-10-31 08:49:16:4916 - [35mhttp[39m : [35mGET /bird 304 - - 53.282 ms[39m
+[35m[39m
+2022-10-31 08:49:16:4916 - [35mhttp[39m : [35mGET /bird 304 - - 55.182 ms[39m
+[35m[39m
+2022-10-31 08:49:43:4943 - [35mhttp[39m : [35mGET /bird 304 - - 48.381 ms[39m
+[35m[39m
+2022-10-31 08:50:09:509 - [35mhttp[39m : [35mGET /bird 304 - - 51.681 ms[39m
+[35m[39m
+2022-10-31 08:50:23:5023 - [35mhttp[39m : [35mGET /bird 304 - - 48.570 ms[39m
+[35m[39m
+2022-10-31 08:50:26:5026 - [35mhttp[39m : [35mGET /bird 304 - - 54.480 ms[39m
+[35m[39m
+2022-10-31 08:50:26:5026 - [35mhttp[39m : [35mGET /bird 304 - - 45.623 ms[39m
+[35m[39m
+2022-10-31 08:51:18:5118 - [35mhttp[39m : [35mGET /bird 304 - - 53.886 ms[39m
+[35m[39m
+2022-10-31 08:51:35:5135 - [35mhttp[39m : [35mGET /bird 304 - - 58.078 ms[39m
+[35m[39m
+2022-10-31 08:52:09:529 - [35mhttp[39m : [35mGET /bird 304 - - 46.785 ms[39m
+[35m[39m
+2022-10-31 08:52:09:529 - [35mhttp[39m : [35mGET /bird 304 - - 46.163 ms[39m
+[35m[39m
+2022-10-31 08:52:09:529 - [35mhttp[39m : [35mGET /bird 304 - - 129.659 ms[39m
+[35m[39m
+2022-10-31 08:52:10:5210 - [35mhttp[39m : [35mGET /bird 304 - - 56.355 ms[39m
+[35m[39m
+2022-10-31 08:52:26:5226 - [35mhttp[39m : [35mGET /bird 304 - - 49.529 ms[39m
+[35m[39m
+2022-10-31 08:52:30:5230 - [35mhttp[39m : [35mGET /bird 304 - - 48.493 ms[39m
+[35m[39m
+2022-10-31 08:52:37:5237 - [35mhttp[39m : [35mGET /bird 304 - - 48.656 ms[39m
+[35m[39m
+2022-10-31 08:52:38:5238 - [35mhttp[39m : [35mGET /bird 304 - - 48.591 ms[39m
+[35m[39m
+2022-10-31 08:52:41:5241 - [35mhttp[39m : [35mGET /bird 304 - - 54.710 ms[39m
+[35m[39m
+2022-10-31 08:53:49:5349 - [35mhttp[39m : [35mGET /bird 304 - - 46.765 ms[39m
+[35m[39m
+2022-10-31 08:53:51:5351 - [35mhttp[39m : [35mGET /bird 304 - - 45.250 ms[39m
+[35m[39m
+2022-10-31 08:53:54:5354 - [35mhttp[39m : [35mGET /bird 304 - - 46.606 ms[39m
+[35m[39m
+2022-10-31 08:53:54:5354 - [35mhttp[39m : [35mGET /bird 304 - - 45.102 ms[39m
+[35m[39m
+2022-10-31 08:54:13:5413 - [35mhttp[39m : [35mGET /bird 304 - - 58.800 ms[39m
+[35m[39m
+2022-10-31 08:54:35:5435 - [35mhttp[39m : [35mGET /bird 304 - - 47.560 ms[39m
+[35m[39m
+2022-10-31 08:55:18:5518 - [35mhttp[39m : [35mGET /bird 304 - - 47.454 ms[39m
+[35m[39m
+2022-10-31 08:55:35:5535 - [35mhttp[39m : [35mGET /bird 304 - - 52.951 ms[39m
+[35m[39m
+2022-10-31 08:56:46:5646 - [35mhttp[39m : [35mGET /bird 304 - - 50.192 ms[39m
+[35m[39m
+2022-10-31 08:56:48:5648 - [35mhttp[39m : [35mGET /bird 304 - - 49.902 ms[39m
+[35m[39m
+2022-10-31 08:56:48:5648 - [35mhttp[39m : [35mGET /bird 304 - - 45.360 ms[39m
+[35m[39m
+2022-10-31 08:57:19:5719 - [35mhttp[39m : [35mGET /bird 304 - - 60.067 ms[39m
+[35m[39m
+2022-10-31 08:58:31:5831 - [35mhttp[39m : [35mGET /bird 304 - - 51.687 ms[39m
+[35m[39m
+2022-10-31 09:07:24:724 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:07:24:724 - [35mhttp[39m : [35mGET /bird 500 40 - 30015.160 ms[39m
+[35m[39m
+2022-10-31 09:07:54:754 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:07:54:754 - [35mhttp[39m : [35mGET /bird 500 40 - 30011.734 ms[39m
+[35m[39m
+2022-10-31 09:08:45:845 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:08:45:845 - [35mhttp[39m : [35mGET /bird 500 40 - 30018.781 ms[39m
+[35m[39m
+2022-10-31 09:09:05:95 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:05:95 - [35mhttp[39m : [35mGET /bird 500 40 - 30017.030 ms[39m
+[35m[39m
+2022-10-31 09:09:09:99 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:09:99 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.298 ms[39m
+[35m[39m
+2022-10-31 09:09:09:99 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:09:99 - [35mhttp[39m : [35mGET /bird 500 40 - 30010.030 ms[39m
+[35m[39m
+2022-10-31 09:09:15:915 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:15:915 - [35mhttp[39m : [35mGET /bird 500 40 - 30014.097 ms[39m
+[35m[39m
+2022-10-31 09:09:26:926 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:26:926 - [35mhttp[39m : [35mGET /bird 500 40 - 30006.505 ms[39m
+[35m[39m
+2022-10-31 09:09:26:926 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:26:926 - [35mhttp[39m : [35mGET /bird 500 40 - 30008.153 ms[39m
+[35m[39m
+2022-10-31 09:09:35:935 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:35:935 - [35mhttp[39m : [35mGET /bird 500 40 - 30010.159 ms[39m
+[35m[39m
+2022-10-31 09:09:39:939 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:09:39:939 - [35mhttp[39m : [35mGET /bird 500 40 - 30031.553 ms[39m
+[35m[39m
+2022-10-31 09:17:39:1739 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:17:39:1739 - [35mhttp[39m : [35mGET /bird 500 40 - 30015.243 ms[39m
+[35m[39m
+2022-10-31 09:17:59:1759 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:17:59:1759 - [35mhttp[39m : [35mGET /bird 500 40 - 30005.896 ms[39m
+[35m[39m
+2022-10-31 09:18:04:184 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:04:184 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.960 ms[39m
+[35m[39m
+2022-10-31 09:18:04:184 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:04:184 - [35mhttp[39m : [35mGET /bird 500 40 - 30008.493 ms[39m
+[35m[39m
+2022-10-31 09:18:19:1819 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:19:1819 - [35mhttp[39m : [35mGET /bird 500 40 - 30017.662 ms[39m
+[35m[39m
+2022-10-31 09:18:39:1839 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:39:1839 - [35mhttp[39m : [35mGET /bird 500 40 - 30012.311 ms[39m
+[35m[39m
+2022-10-31 09:18:49:1849 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:49:1849 - [35mhttp[39m : [35mGET /bird 500 40 - 30011.063 ms[39m
+[35m[39m
+2022-10-31 09:18:52:1852 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:18:52:1852 - [35mhttp[39m : [35mGET /bird 500 40 - 30009.850 ms[39m
+[35m[39m
+2022-10-31 09:20:25:2025 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:25:2025 - [35mhttp[39m : [35mGET /bird 500 40 - 30014.015 ms[39m
+[35m[39m
+2022-10-31 09:20:45:2045 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:45:2045 - [35mhttp[39m : [35mGET /bird 500 40 - 30018.968 ms[39m
+[35m[39m
+2022-10-31 09:20:46:2046 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:46:2046 - [35mhttp[39m : [35mGET /bird 500 40 - 30012.219 ms[39m
+[35m[39m
+2022-10-31 09:20:46:2046 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:46:2046 - [35mhttp[39m : [35mGET /bird 500 40 - 30018.616 ms[39m
+[35m[39m
+2022-10-31 09:20:55:2055 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:55:2055 - [35mhttp[39m : [35mGET /bird 500 40 - 30013.541 ms[39m
+[35m[39m
+2022-10-31 09:20:56:2056 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:56:2056 - [35mhttp[39m : [35mGET /bird 500 40 - 30013.897 ms[39m
+[35m[39m
+2022-10-31 09:20:57:2057 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:20:57:2057 - [35mhttp[39m : [35mGET /bird 500 40 - 30014.751 ms[39m
+[35m[39m
+2022-10-31 09:21:15:2115 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:15:2115 - [35mhttp[39m : [35mGET /bird 500 40 - 30008.667 ms[39m
+[35m[39m
+2022-10-31 09:21:16:2116 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:16:2116 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.038 ms[39m
+[35m[39m
+2022-10-31 09:21:16:2116 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:16:2116 - [35mhttp[39m : [35mGET /bird 500 40 - 30010.503 ms[39m
+[35m[39m
+2022-10-31 09:21:25:2125 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:25:2125 - [35mhttp[39m : [35mGET /bird 500 40 - 30006.525 ms[39m
+[35m[39m
+2022-10-31 09:21:26:2126 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:26:2126 - [35mhttp[39m : [35mGET /bird 500 40 - 30009.591 ms[39m
+[35m[39m
+2022-10-31 09:21:27:2127 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:27:2127 - [35mhttp[39m : [35mGET /bird 500 40 - 30006.104 ms[39m
+[35m[39m
+2022-10-31 09:21:45:2145 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:45:2145 - [35mhttp[39m : [35mGET /bird 500 40 - 30012.449 ms[39m
+[35m[39m
+2022-10-31 09:21:46:2146 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:21:46:2146 - [35mhttp[39m : [35mGET /bird 500 40 - 30013.538 ms[39m
+[35m[39m
+2022-10-31 09:22:17:2217 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:17:2217 - [35mhttp[39m : [35mGET /bird 500 40 - 30014.531 ms[39m
+[35m[39m
+2022-10-31 09:22:37:2237 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:37:2237 - [35mhttp[39m : [35mGET /bird 500 40 - 30021.132 ms[39m
+[35m[39m
+2022-10-31 09:22:40:2240 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:40:2240 - [35mhttp[39m : [35mGET /bird 500 40 - 30020.200 ms[39m
+[35m[39m
+2022-10-31 09:22:40:2240 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:40:2240 - [35mhttp[39m : [35mGET /bird 500 40 - 30023.596 ms[39m
+[35m[39m
+2022-10-31 09:22:43:2243 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:43:2243 - [35mhttp[39m : [35mGET /bird 500 40 - 30008.197 ms[39m
+[35m[39m
+2022-10-31 09:22:43:2243 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:43:2243 - [35mhttp[39m : [35mGET /bird 500 40 - 30012.084 ms[39m
+[35m[39m
+2022-10-31 09:22:47:2247 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:22:47:2247 - [35mhttp[39m : [35mGET /bird 500 40 - 30018.110 ms[39m
+[35m[39m
+2022-10-31 09:23:07:237 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:07:237 - [35mhttp[39m : [35mGET /bird 500 40 - 30017.016 ms[39m
+[35m[39m
+2022-10-31 09:23:10:2310 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:10:2310 - [35mhttp[39m : [35mGET /bird 500 40 - 30010.358 ms[39m
+[35m[39m
+2022-10-31 09:23:10:2310 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:10:2310 - [35mhttp[39m : [35mGET /bird 500 40 - 30017.073 ms[39m
+[35m[39m
+2022-10-31 09:23:13:2313 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:13:2313 - [35mhttp[39m : [35mGET /bird 500 40 - 30009.430 ms[39m
+[35m[39m
+2022-10-31 09:23:13:2313 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:13:2313 - [35mhttp[39m : [35mGET /bird 500 40 - 30013.541 ms[39m
+[35m[39m
+2022-10-31 09:23:17:2317 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:17:2317 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.237 ms[39m
+[35m[39m
+2022-10-31 09:23:37:2337 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:37:2337 - [35mhttp[39m : [35mGET /bird 500 40 - 30016.154 ms[39m
+[35m[39m
+2022-10-31 09:23:40:2340 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:40:2340 - [35mhttp[39m : [35mGET /bird 500 40 - 30009.164 ms[39m
+[35m[39m
+2022-10-31 09:23:40:2340 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:40:2340 - [35mhttp[39m : [35mGET /bird 500 40 - 30014.158 ms[39m
+[35m[39m
+2022-10-31 09:23:43:2343 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:43:2343 - [35mhttp[39m : [35mGET /bird 500 40 - 30016.860 ms[39m
+[35m[39m
+2022-10-31 09:23:43:2343 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:23:43:2343 - [35mhttp[39m : [35mGET /bird 500 40 - 30023.494 ms[39m
+[35m[39m
+2022-10-31 09:25:06:256 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:25:06:256 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.074 ms[39m
+[35m[39m
+2022-10-31 09:25:26:2526 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:25:26:2526 - [35mhttp[39m : [35mGET /bird 500 40 - 30018.958 ms[39m
+[35m[39m
+2022-10-31 09:37:52:3752 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:37:52:3752 - [35mhttp[39m : [35mGET /bird 500 40 - 30012.552 ms[39m
+[35m[39m
+2022-10-31 09:38:13:3813 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:38:13:3813 - [35mhttp[39m : [35mGET /bird 500 40 - 30022.159 ms[39m
+[35m[39m
+2022-10-31 09:38:39:3839 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:38:39:3839 - [35mhttp[39m : [35mGET /bird 500 40 - 30015.374 ms[39m
+[35m[39m
+2022-10-31 09:38:59:3859 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:38:59:3859 - [35mhttp[39m : [35mGET /bird 500 40 - 30034.441 ms[39m
+[35m[39m
+2022-10-31 09:39:47:3947 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:39:47:3947 - [35mhttp[39m : [35mGET /bird 500 40 - 30007.692 ms[39m
+[35m[39m
+2022-10-31 09:40:07:407 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:40:07:407 - [35mhttp[39m : [35mGET /bird 500 40 - 30005.953 ms[39m
+[35m[39m
+2022-10-31 09:40:08:408 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:40:08:408 - [35mhttp[39m : [35mGET /bird 500 40 - 30002.517 ms[39m
+[35m[39m
+2022-10-31 09:40:08:408 - [31merror[39m : [31mErro no sistema: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-10-31 09:40:08:408 - [35mhttp[39m : [35mGET /bird 500 40 - 30011.110 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 28295.497 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 28091.012 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 7534.090 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 7560.630 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 96.221 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 124.989 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 97.508 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 98.610 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 304 - - 92.672 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 304 - - 50.408 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 8586.925 ms[39m
+[35m[39m
+2022-10-31 09:40:16:4016 - [35mhttp[39m : [35mGET /bird 200 11940 - 25627.160 ms[39m
+[35m[39m
+2022-10-31 09:43:03:433 - [35mhttp[39m : [35mGET /bird 304 - - 58.331 ms[39m
+[35m[39m
+2022-10-31 09:43:03:433 - [35mhttp[39m : [35mGET /bird 304 - - 70.783 ms[39m
+[35m[39m
+2022-10-31 09:46:48:4648 - [35mhttp[39m : [35mGET /bird 304 - - 58.749 ms[39m
+[35m[39m
+2022-10-31 09:46:48:4648 - [35mhttp[39m : [35mGET /bird 304 - - 54.233 ms[39m
+[35m[39m
+2022-10-31 09:46:56:4656 - [35mhttp[39m : [35mGET /bird/635ed3e3fc35d17105453a96 304 - - 65.853 ms[39m
+[35m[39m
+2022-10-31 09:46:56:4656 - [35mhttp[39m : [35mGET /bird/635ed3e3fc35d17105453a96 304 - - 60.211 ms[39m
+[35m[39m
+2022-10-31 09:47:00:470 - [35mhttp[39m : [35mGET /bird 304 - - 57.087 ms[39m
+[35m[39m
+2022-10-31 09:47:00:470 - [35mhttp[39m : [35mGET /bird 304 - - 54.240 ms[39m
+[35m[39m
+2022-10-31 09:47:13:4713 - [35mhttp[39m : [35mGET /bird 304 - - 62.426 ms[39m
+[35m[39m
+2022-10-31 09:47:13:4713 - [35mhttp[39m : [35mGET /bird 304 - - 60.919 ms[39m
+[35m[39m
+2022-10-31 09:52:16:5216 - [35mhttp[39m : [35mGET /bird 304 - - 52.615 ms[39m
+[35m[39m
+2022-10-31 09:52:16:5216 - [35mhttp[39m : [35mGET /bird 304 - - 56.330 ms[39m
+[35m[39m
+2022-10-31 09:53:31:5331 - [35mhttp[39m : [35mGET /bird 304 - - 57.335 ms[39m
+[35m[39m
+2022-10-31 09:53:41:5341 - [35mhttp[39m : [35mGET /bird 304 - - 59.805 ms[39m
+[35m[39m
+2022-10-31 09:54:28:5428 - [35mhttp[39m : [35mGET /bird 304 - - 54.937 ms[39m
+[35m[39m
+2022-10-31 09:54:29:5429 - [35mhttp[39m : [35mGET /bird 304 - - 52.523 ms[39m
+[35m[39m
+2022-10-31 09:54:31:5431 - [35mhttp[39m : [35mGET /bird/634210e09014b7fd0d89ab74 200 9295 - 52.579 ms[39m
+[35m[39m
+2022-10-31 09:54:31:5431 - [35mhttp[39m : [35mGET /bird/634210e09014b7fd0d89ab74 304 - - 54.951 ms[39m
+[35m[39m
+2022-10-31 09:54:33:5433 - [35mhttp[39m : [35mGET /bird 304 - - 50.923 ms[39m
+[35m[39m
+2022-10-31 09:54:33:5433 - [35mhttp[39m : [35mGET /bird 304 - - 54.518 ms[39m
+[35m[39m
+2022-10-31 10:00:51:051 - [35mhttp[39m : [35mGET /bird 304 - - 122.366 ms[39m
+[35m[39m
+2022-10-31 10:00:51:051 - [35mhttp[39m : [35mGET /bird 304 - - 117.869 ms[39m
+[35m[39m
+2022-10-31 10:03:57:357 - [35mhttp[39m : [35mGET /bird 304 - - 44.221 ms[39m
+[35m[39m
+2022-10-31 10:06:04:64 - [35mhttp[39m : [35mGET /bird 304 - - 40.718 ms[39m
+[35m[39m
+2022-10-31 10:06:10:610 - [35mhttp[39m : [35mGET /bird 304 - - 45.884 ms[39m
+[35m[39m
+2022-10-31 10:06:15:615 - [35mhttp[39m : [35mGET /bird 304 - - 39.726 ms[39m
+[35m[39m
+2022-10-31 10:06:31:631 - [35mhttp[39m : [35mGET /bird 304 - - 48.912 ms[39m
+[35m[39m
+2022-10-31 10:07:11:711 - [35mhttp[39m : [35mGET /bird 304 - - 49.557 ms[39m
+[35m[39m
+2022-10-31 10:07:13:713 - [35mhttp[39m : [35mGET /bird 304 - - 40.480 ms[39m
+[35m[39m
+2022-10-31 10:07:13:713 - [35mhttp[39m : [35mGET /bird 304 - - 44.594 ms[39m
+[35m[39m
+2022-10-31 10:08:13:813 - [35mhttp[39m : [35mGET /bird 304 - - 44.613 ms[39m
+[35m[39m
+2022-10-31 10:08:29:829 - [35mhttp[39m : [35mGET /bird 304 - - 40.665 ms[39m
+[35m[39m
+2022-10-31 10:08:41:841 - [35mhttp[39m : [35mGET /bird 304 - - 43.088 ms[39m
+[35m[39m
+2022-10-31 10:09:20:920 - [35mhttp[39m : [35mGET /bird 304 - - 43.072 ms[39m
+[35m[39m
+2022-10-31 10:09:20:920 - [35mhttp[39m : [35mGET /bird 304 - - 43.414 ms[39m
+[35m[39m
+2022-10-31 10:09:21:921 - [35mhttp[39m : [35mGET /bird 304 - - 49.911 ms[39m
+[35m[39m
+2022-10-31 10:09:21:921 - [35mhttp[39m : [35mGET /bird 304 - - 46.690 ms[39m
+[35m[39m
+2022-10-31 10:15:07:157 - [35mhttp[39m : [35mGET /bird 304 - - 164.547 ms[39m
+[35m[39m
+2022-10-31 10:18:25:1825 - [35mhttp[39m : [35mGET /bird 304 - - 46.725 ms[39m
+[35m[39m
+2022-10-31 10:18:53:1853 - [35mhttp[39m : [35mGET /bird 304 - - 50.839 ms[39m
+[35m[39m
+2022-10-31 10:19:06:196 - [35mhttp[39m : [35mGET /bird 304 - - 54.264 ms[39m
+[35m[39m
+2022-10-31 10:19:21:1921 - [35mhttp[39m : [35mGET /bird 304 - - 46.406 ms[39m
+[35m[39m
+2022-10-31 10:19:21:1921 - [35mhttp[39m : [35mGET /bird 304 - - 45.057 ms[39m
+[35m[39m
+2022-10-31 10:19:22:1922 - [35mhttp[39m : [35mGET /bird 304 - - 49.657 ms[39m
+[35m[39m
+2022-10-31 10:19:22:1922 - [35mhttp[39m : [35mGET /bird 304 - - 47.589 ms[39m
+[35m[39m
+2022-10-31 10:20:34:2034 - [35mhttp[39m : [35mGET /bird 304 - - 53.288 ms[39m
+[35m[39m
+2022-10-31 10:20:34:2034 - [35mhttp[39m : [35mGET /bird 304 - - 47.426 ms[39m
+[35m[39m
+2022-10-31 10:20:48:2048 - [35mhttp[39m : [35mGET /bird 304 - - 56.902 ms[39m
+[35m[39m
+2022-10-31 10:20:49:2049 - [35mhttp[39m : [35mGET /bird 304 - - 53.336 ms[39m
+[35m[39m
+2022-10-31 10:20:52:2052 - [35mhttp[39m : [35mGET /bird 304 - - 89.178 ms[39m
+[35m[39m
+2022-10-31 10:20:52:2052 - [35mhttp[39m : [35mGET /bird 304 - - 49.045 ms[39m
+[35m[39m
+2022-10-31 10:20:56:2056 - [35mhttp[39m : [35mGET /bird 304 - - 52.652 ms[39m
+[35m[39m
+2022-10-31 10:20:56:2056 - [35mhttp[39m : [35mGET /bird 304 - - 48.345 ms[39m
+[35m[39m
+2022-10-31 10:21:27:2127 - [35mhttp[39m : [35mGET /bird 304 - - 50.197 ms[39m
+[35m[39m
+2022-10-31 10:21:27:2127 - [35mhttp[39m : [35mGET /bird 304 - - 45.356 ms[39m
+[35m[39m
+2022-10-31 10:24:27:2427 - [35mhttp[39m : [35mGET /bird 304 - - 48.471 ms[39m
+[35m[39m
+2022-10-31 10:24:27:2427 - [35mhttp[39m : [35mGET /bird 304 - - 49.033 ms[39m
+[35m[39m
+2022-10-31 10:24:40:2440 - [35mhttp[39m : [35mGET /bird 304 - - 46.411 ms[39m
+[35m[39m
+2022-10-31 10:24:40:2440 - [35mhttp[39m : [35mGET /bird 304 - - 48.142 ms[39m
+[35m[39m
+2022-10-31 10:24:47:2447 - [35mhttp[39m : [35mGET /bird 304 - - 51.549 ms[39m
+[35m[39m
+2022-10-31 10:24:47:2447 - [35mhttp[39m : [35mGET /bird 304 - - 55.972 ms[39m
+[35m[39m
+2022-10-31 10:25:02:252 - [35mhttp[39m : [35mGET /bird 304 - - 45.523 ms[39m
+[35m[39m
+2022-10-31 10:25:47:2547 - [35mhttp[39m : [35mGET /bird 304 - - 46.150 ms[39m
+[35m[39m
+2022-10-31 10:25:47:2547 - [35mhttp[39m : [35mGET /bird 304 - - 52.793 ms[39m
+[35m[39m
+2022-10-31 10:25:51:2551 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 57.508 ms[39m
+[35m[39m
+2022-10-31 10:25:51:2551 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 52.251 ms[39m
+[35m[39m
+2022-10-31 10:26:00:260 - [35mhttp[39m : [35mGET /bird 304 - - 47.229 ms[39m
+[35m[39m
+2022-10-31 10:26:00:260 - [35mhttp[39m : [35mGET /bird 304 - - 49.824 ms[39m
+[35m[39m
+2022-10-31 10:26:02:262 - [35mhttp[39m : [35mGET /bird 304 - - 56.672 ms[39m
+[35m[39m
+2022-10-31 10:26:02:262 - [35mhttp[39m : [35mGET /bird 304 - - 49.626 ms[39m
+[35m[39m
+2022-10-31 10:36:08:368 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 54.952 ms[39m
+[35m[39m
+2022-10-31 10:36:08:368 - [35mhttp[39m : [35mGET /bird/634210f59014b7fd0d89ab78 304 - - 48.519 ms[39m
+[35m[39m
+2022-10-31 13:00:44:044 - [35mhttp[39m : [35mGET /bird 304 - - 484.095 ms[39m
+[35m[39m
+2022-10-31 13:00:44:044 - [35mhttp[39m : [35mGET /bird 304 - - 44.319 ms[39m
+[35m[39m
+2022-10-31 13:00:49:049 - [35mhttp[39m : [35mGET /bird 304 - - 43.605 ms[39m
+[35m[39m
+2022-10-31 13:00:49:049 - [35mhttp[39m : [35mGET /bird 304 - - 45.109 ms[39m
+[35m[39m
+2022-10-31 13:06:32:632 - [35mhttp[39m : [35mGET /bird 304 - - 44.283 ms[39m
+[35m[39m
+2022-10-31 13:06:32:632 - [35mhttp[39m : [35mGET /bird 304 - - 50.185 ms[39m
+[35m[39m
+2022-10-31 13:07:04:74 - [35mhttp[39m : [35mGET /bird 304 - - 45.764 ms[39m
+[35m[39m
+2022-10-31 13:07:04:74 - [35mhttp[39m : [35mGET /bird 304 - - 42.374 ms[39m
+[35m[39m
+2022-10-31 13:07:14:714 - [35mhttp[39m : [35mGET /bird 304 - - 47.479 ms[39m
+[35m[39m
+2022-10-31 13:07:14:714 - [35mhttp[39m : [35mGET /bird 304 - - 46.364 ms[39m
+[35m[39m
+2022-10-31 13:07:15:715 - [35mhttp[39m : [35mGET /bird 304 - - 44.788 ms[39m
+[35m[39m
+2022-10-31 13:07:15:715 - [35mhttp[39m : [35mGET /bird 304 - - 43.395 ms[39m
+[35m[39m
+2022-10-31 13:07:18:718 - [35mhttp[39m : [35mGET /bird 304 - - 43.557 ms[39m
+[35m[39m
+2022-10-31 13:07:18:718 - [35mhttp[39m : [35mGET /bird 304 - - 42.932 ms[39m
+[35m[39m
+2022-10-31 13:07:37:737 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 50.128 ms[39m
+[35m[39m
+2022-10-31 13:07:37:737 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 41.806 ms[39m
+[35m[39m
+2022-10-31 13:07:41:741 - [35mhttp[39m : [35mGET /bird 304 - - 44.859 ms[39m
+[35m[39m
+2022-10-31 13:07:41:741 - [35mhttp[39m : [35mGET /bird 304 - - 43.345 ms[39m
+[35m[39m
+2022-10-31 13:07:46:746 - [35mhttp[39m : [35mGET /bird 304 - - 42.764 ms[39m
+[35m[39m
+2022-10-31 13:07:46:746 - [35mhttp[39m : [35mGET /bird 304 - - 44.187 ms[39m
+[35m[39m
+2022-10-31 13:07:50:750 - [35mhttp[39m : [35mGET /bird 304 - - 44.772 ms[39m
+[35m[39m
+2022-10-31 13:07:50:750 - [35mhttp[39m : [35mGET /bird 304 - - 42.172 ms[39m
+[35m[39m
+2022-10-31 13:07:53:753 - [35mhttp[39m : [35mGET /bird 304 - - 42.491 ms[39m
+[35m[39m
+2022-10-31 13:07:53:753 - [35mhttp[39m : [35mGET /bird 304 - - 43.562 ms[39m
+[35m[39m
+2022-10-31 13:08:09:89 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 200 361 - 41.674 ms[39m
+[35m[39m
+2022-10-31 13:08:09:89 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 304 - - 42.072 ms[39m
+[35m[39m
+2022-10-31 13:08:15:815 - [35mhttp[39m : [35mGET /bird 304 - - 43.420 ms[39m
+[35m[39m
+2022-10-31 13:08:15:815 - [35mhttp[39m : [35mGET /bird 304 - - 44.891 ms[39m
+[35m[39m
+2022-10-31 13:08:16:816 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 304 - - 41.909 ms[39m
+[35m[39m
+2022-10-31 13:08:16:816 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 304 - - 41.926 ms[39m
+[35m[39m
+2022-10-31 13:08:57:857 - [35mhttp[39m : [35mGET /bird 304 - - 44.104 ms[39m
+[35m[39m
+2022-10-31 13:08:57:857 - [35mhttp[39m : [35mGET /bird 304 - - 44.411 ms[39m
+[35m[39m
+2022-10-31 13:09:00:90 - [35mhttp[39m : [35mGET /bird 304 - - 43.690 ms[39m
+[35m[39m
+2022-10-31 13:09:00:90 - [35mhttp[39m : [35mGET /bird 304 - - 43.193 ms[39m
+[35m[39m
+2022-10-31 13:09:01:91 - [35mhttp[39m : [35mGET /bird 304 - - 56.689 ms[39m
+[35m[39m
+2022-10-31 13:09:01:91 - [35mhttp[39m : [35mGET /bird 304 - - 43.348 ms[39m
+[35m[39m
+2022-10-31 13:09:02:92 - [35mhttp[39m : [35mGET /bird 304 - - 42.238 ms[39m
+[35m[39m
+2022-10-31 13:09:02:92 - [35mhttp[39m : [35mGET /bird 304 - - 42.991 ms[39m
+[35m[39m
+2022-10-31 13:09:04:94 - [35mhttp[39m : [35mGET /bird 304 - - 43.065 ms[39m
+[35m[39m
+2022-10-31 13:09:04:94 - [35mhttp[39m : [35mGET /bird 304 - - 42.992 ms[39m
+[35m[39m
+2022-10-31 13:12:16:1216 - [35mhttp[39m : [35mGET /bird 304 - - 44.755 ms[39m
+[35m[39m
+2022-10-31 13:12:20:1220 - [35mhttp[39m : [35mGET /bird 304 - - 42.990 ms[39m
+[35m[39m
+2022-10-31 13:13:57:1357 - [35mhttp[39m : [35mGET /bird 304 - - 43.597 ms[39m
+[35m[39m
+2022-10-31 13:13:57:1357 - [35mhttp[39m : [35mGET /bird 304 - - 42.644 ms[39m
+[35m[39m
+2022-10-31 13:15:21:1521 - [35mhttp[39m : [35mGET /bird 304 - - 47.673 ms[39m
+[35m[39m
+2022-10-31 13:15:21:1521 - [35mhttp[39m : [35mGET /bird 304 - - 44.691 ms[39m
+[35m[39m
+2022-10-31 13:16:34:1634 - [35mhttp[39m : [35mGET /bird 304 - - 48.097 ms[39m
+[35m[39m
+2022-10-31 13:16:34:1634 - [35mhttp[39m : [35mGET /bird 304 - - 45.154 ms[39m
+[35m[39m
+2022-10-31 13:16:39:1639 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 304 - - 44.283 ms[39m
+[35m[39m
+2022-10-31 13:16:39:1639 - [35mhttp[39m : [35mGET /bird/635fae98f5b06a9895f453c8 304 - - 42.154 ms[39m
+[35m[39m
+2022-10-31 13:16:42:1642 - [35mhttp[39m : [35mGET /bird 304 - - 176.101 ms[39m
+[35m[39m
+2022-10-31 13:16:42:1642 - [35mhttp[39m : [35mGET /bird 304 - - 42.419 ms[39m
+[35m[39m
+2022-10-31 13:19:23:1923 - [35mhttp[39m : [35mGET /bird 304 - - 47.538 ms[39m
+[35m[39m
+2022-10-31 13:19:24:1924 - [35mhttp[39m : [35mGET /bird 304 - - 56.093 ms[39m
+[35m[39m
+2022-10-31 13:22:08:228 - [35mhttp[39m : [35mGET /bird 304 - - 43.727 ms[39m
+[35m[39m
+2022-10-31 13:22:12:2212 - [35mhttp[39m : [35mGET /bird 304 - - 42.511 ms[39m
+[35m[39m
+2022-10-31 13:22:22:2222 - [35mhttp[39m : [35mGET /bird 304 - - 47.664 ms[39m
+[35m[39m
+2022-10-31 13:22:28:2228 - [35mhttp[39m : [35mGET /bird 304 - - 43.482 ms[39m
+[35m[39m
+2022-10-31 13:22:33:2233 - [35mhttp[39m : [35mGET /bird 304 - - 45.942 ms[39m
+[35m[39m
+2022-10-31 13:24:49:2449 - [35mhttp[39m : [35mGET /bird 304 - - 51.847 ms[39m
+[35m[39m
+2022-10-31 13:25:09:259 - [35mhttp[39m : [35mGET /bird 304 - - 47.503 ms[39m
+[35m[39m
+2022-10-31 13:25:09:259 - [35mhttp[39m : [35mGET /bird 304 - - 47.047 ms[39m
+[35m[39m
+2022-10-31 13:26:25:2625 - [35mhttp[39m : [35mGET /bird 304 - - 46.735 ms[39m
+[35m[39m
+2022-10-31 13:26:28:2628 - [35mhttp[39m : [35mGET /bird 304 - - 44.411 ms[39m
+[35m[39m
+2022-10-31 13:26:30:2630 - [35mhttp[39m : [35mGET /bird 304 - - 44.160 ms[39m
+[35m[39m
+2022-10-31 13:26:30:2630 - [35mhttp[39m : [35mGET /bird 304 - - 63.873 ms[39m
+[35m[39m
+2022-10-31 13:26:42:2642 - [35mhttp[39m : [35mGET /bird 304 - - 44.121 ms[39m
+[35m[39m
+2022-10-31 13:26:43:2643 - [35mhttp[39m : [35mGET /bird 304 - - 126.677 ms[39m
+[35m[39m
+2022-10-31 13:26:43:2643 - [35mhttp[39m : [35mGET /bird 304 - - 48.686 ms[39m
+[35m[39m
+2022-10-31 13:26:52:2652 - [35mhttp[39m : [35mGET /bird 304 - - 44.876 ms[39m
+[35m[39m
+2022-10-31 13:28:37:2837 - [35mhttp[39m : [35mGET /bird 304 - - 46.107 ms[39m
+[35m[39m
+2022-10-31 13:28:37:2837 - [35mhttp[39m : [35mGET /bird 304 - - 44.427 ms[39m
+[35m[39m
+2022-10-31 13:28:45:2845 - [35mhttp[39m : [35mGET /bird 304 - - 43.189 ms[39m
+[35m[39m
+2022-10-31 13:28:45:2845 - [35mhttp[39m : [35mGET /bird 304 - - 42.636 ms[39m
+[35m[39m
+2022-10-31 13:30:12:3012 - [35mhttp[39m : [35mGET /bird 304 - - 44.696 ms[39m
+[35m[39m
+2022-10-31 13:30:16:3016 - [35mhttp[39m : [35mGET /bird 304 - - 45.246 ms[39m
+[35m[39m
+2022-10-31 13:31:02:312 - [35mhttp[39m : [35mGET /bird 304 - - 45.822 ms[39m
+[35m[39m
+2022-10-31 13:31:02:312 - [35mhttp[39m : [35mGET /bird 304 - - 45.478 ms[39m
+[35m[39m
+2022-10-31 13:31:17:3117 - [35mhttp[39m : [35mGET /bird 304 - - 46.344 ms[39m
+[35m[39m
+2022-10-31 13:33:11:3311 - [35mhttp[39m : [35mGET /bird 304 - - 44.111 ms[39m
+[35m[39m
+2022-10-31 13:33:45:3345 - [35mhttp[39m : [35mGET /bird 304 - - 45.085 ms[39m
+[35m[39m
+2022-10-31 13:33:45:3345 - [35mhttp[39m : [35mGET /bird 304 - - 45.270 ms[39m
+[35m[39m
+2022-10-31 13:34:12:3412 - [35mhttp[39m : [35mGET /bird 304 - - 43.303 ms[39m
+[35m[39m
+2022-10-31 13:35:20:3520 - [35mhttp[39m : [35mGET /bird 304 - - 57.386 ms[39m
+[35m[39m
+2022-10-31 13:35:22:3522 - [35mhttp[39m : [35mGET /bird 304 - - 44.508 ms[39m
+[35m[39m
+2022-10-31 13:35:22:3522 - [35mhttp[39m : [35mGET /bird 304 - - 46.003 ms[39m
+[35m[39m
+2022-10-31 13:36:14:3614 - [35mhttp[39m : [35mGET /bird 304 - - 44.698 ms[39m
+[35m[39m
+2022-10-31 13:36:14:3614 - [35mhttp[39m : [35mGET /bird 304 - - 47.466 ms[39m
+[35m[39m
+2022-10-31 13:36:37:3637 - [35mhttp[39m : [35mGET /bird 304 - - 43.437 ms[39m
+[35m[39m
+2022-10-31 13:36:39:3639 - [35mhttp[39m : [35mGET /bird 304 - - 49.199 ms[39m
+[35m[39m
+2022-10-31 13:36:40:3640 - [35mhttp[39m : [35mGET /bird 304 - - 49.011 ms[39m
+[35m[39m
+2022-10-31 13:36:40:3640 - [35mhttp[39m : [35mGET /bird 304 - - 49.863 ms[39m
+[35m[39m
+2022-10-31 13:36:54:3654 - [35mhttp[39m : [35mGET /bird 304 - - 51.271 ms[39m
+[35m[39m
+2022-10-31 13:38:58:3858 - [35mhttp[39m : [35mGET /bird 304 - - 60.209 ms[39m
+[35m[39m
+2022-10-31 13:39:19:3919 - [35mhttp[39m : [35mGET /bird 304 - - 47.860 ms[39m
+[35m[39m
+2022-10-31 13:42:15:4215 - [35mhttp[39m : [35mGET /bird 304 - - 44.953 ms[39m
+[35m[39m
+2022-10-31 13:42:31:4231 - [35mhttp[39m : [35mGET /bird 304 - - 45.412 ms[39m
+[35m[39m
+2022-10-31 13:42:37:4237 - [35mhttp[39m : [35mGET /bird 304 - - 44.420 ms[39m
+[35m[39m
+2022-10-31 13:44:52:4452 - [35mhttp[39m : [35mGET /bird 304 - - 55.910 ms[39m
+[35m[39m
+2022-10-31 13:44:59:4459 - [35mhttp[39m : [35mGET /bird 304 - - 48.071 ms[39m
+[35m[39m
+2022-10-31 13:44:59:4459 - [35mhttp[39m : [35mGET /bird 304 - - 42.734 ms[39m
+[35m[39m
+2022-10-31 13:45:53:4553 - [35mhttp[39m : [35mGET /bird 304 - - 64.297 ms[39m
+[35m[39m
+2022-10-31 13:46:27:4627 - [35mhttp[39m : [35mGET /bird 304 - - 45.432 ms[39m
+[35m[39m
+2022-10-31 13:46:36:4636 - [35mhttp[39m : [35mGET /bird 304 - - 49.162 ms[39m
+[35m[39m
+2022-10-31 13:46:36:4636 - [35mhttp[39m : [35mGET /bird 304 - - 45.710 ms[39m
+[35m[39m
+2022-10-31 13:47:28:4728 - [35mhttp[39m : [35mGET /bird 304 - - 43.908 ms[39m
+[35m[39m
+2022-10-31 13:47:30:4730 - [35mhttp[39m : [35mGET /bird 304 - - 44.698 ms[39m
+[35m[39m
+2022-10-31 13:47:57:4757 - [35mhttp[39m : [35mGET /bird 304 - - 42.671 ms[39m
+[35m[39m
+2022-10-31 13:47:59:4759 - [35mhttp[39m : [35mGET /bird 304 - - 45.719 ms[39m
+[35m[39m
+2022-10-31 13:47:59:4759 - [35mhttp[39m : [35mGET /bird 304 - - 50.537 ms[39m
+[35m[39m
+2022-10-31 13:48:04:484 - [35mhttp[39m : [35mGET /bird 304 - - 47.449 ms[39m
+[35m[39m
+2022-10-31 13:48:05:485 - [35mhttp[39m : [35mGET /bird 304 - - 42.635 ms[39m
+[35m[39m
+2022-10-31 13:48:06:486 - [35mhttp[39m : [35mGET /bird 304 - - 45.210 ms[39m
+[35m[39m
+2022-10-31 13:48:06:486 - [35mhttp[39m : [35mGET /bird 304 - - 43.544 ms[39m
+[35m[39m
+2022-10-31 13:49:04:494 - [35mhttp[39m : [35mGET /bird 304 - - 44.840 ms[39m
+[35m[39m
+2022-10-31 13:49:13:4913 - [35mhttp[39m : [35mGET /bird 304 - - 42.454 ms[39m
+[35m[39m
+2022-10-31 13:49:37:4937 - [35mhttp[39m : [35mGET /bird 304 - - 44.851 ms[39m
+[35m[39m
+2022-10-31 13:55:13:5513 - [35mhttp[39m : [35mGET /bird 304 - - 63.657 ms[39m
+[35m[39m
+2022-10-31 13:55:13:5513 - [35mhttp[39m : [35mGET /bird 304 - - 55.603 ms[39m
+[35m[39m
+2022-10-31 13:57:51:5751 - [35mhttp[39m : [35mGET /bird 304 - - 222.317 ms[39m
+[35m[39m
+2022-10-31 13:57:51:5751 - [35mhttp[39m : [35mGET /bird 304 - - 50.022 ms[39m
+[35m[39m
+2022-10-31 13:57:59:5759 - [35mhttp[39m : [35mGET /bird 304 - - 61.295 ms[39m
+[35m[39m
+2022-10-31 13:58:09:589 - [35mhttp[39m : [35mGET /bird 304 - - 241.171 ms[39m
+[35m[39m
+2022-10-31 13:58:09:589 - [35mhttp[39m : [35mGET /bird 304 - - 49.497 ms[39m
+[35m[39m
+2022-10-31 13:58:33:5833 - [35mhttp[39m : [35mGET /bird 304 - - 53.296 ms[39m
+[35m[39m
+2022-10-31 13:59:58:5958 - [35mhttp[39m : [35mGET /bird 304 - - 51.056 ms[39m
+[35m[39m
+2022-10-31 13:59:58:5958 - [35mhttp[39m : [35mGET /bird 304 - - 52.417 ms[39m
+[35m[39m
+2022-10-31 14:00:03:03 - [35mhttp[39m : [35mGET /bird 304 - - 52.276 ms[39m
+[35m[39m
+2022-10-31 14:00:11:011 - [35mhttp[39m : [35mGET /bird 304 - - 50.751 ms[39m
+[35m[39m
+2022-10-31 14:00:11:011 - [35mhttp[39m : [35mGET /bird 304 - - 55.313 ms[39m
+[35m[39m
+2022-10-31 14:00:43:043 - [35mhttp[39m : [35mGET /bird 304 - - 55.949 ms[39m
+[35m[39m
+2022-10-31 14:00:44:044 - [35mhttp[39m : [35mGET /bird 304 - - 316.840 ms[39m
+[35m[39m
+2022-10-31 14:02:10:210 - [35mhttp[39m : [35mGET /bird 304 - - 104.248 ms[39m
+[35m[39m
+2022-10-31 14:02:10:210 - [35mhttp[39m : [35mGET /bird 304 - - 95.621 ms[39m
+[35m[39m
+2022-10-31 14:02:54:254 - [35mhttp[39m : [35mGET /bird 304 - - 52.102 ms[39m
+[35m[39m
+2022-10-31 14:02:54:254 - [35mhttp[39m : [35mGET /bird 304 - - 55.394 ms[39m
+[35m[39m
+2022-10-31 14:03:24:324 - [35mhttp[39m : [35mGET /bird 304 - - 253.672 ms[39m
+[35m[39m
+2022-10-31 14:03:27:327 - [35mhttp[39m : [35mGET /bird 304 - - 96.323 ms[39m
+[35m[39m
+2022-10-31 16:07:57:757 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2022-10-31 16:07:57:757 - [32minfo[39m : [32mA aplicação está rodando na porta: 3000[39m
+2022-10-31 16:09:55:955 - [35mhttp[39m : [35mGET /bird 304 - - 114.860 ms[39m
+[35m[39m
+2022-10-31 16:09:55:955 - [35mhttp[39m : [35mGET /bird 304 - - 62.997 ms[39m
+[35m[39m
+2022-10-31 16:13:26:1326 - [35mhttp[39m : [35mGET /bird 304 - - 56.656 ms[39m
+[35m[39m
+2022-10-31 16:13:26:1326 - [35mhttp[39m : [35mGET /bird 304 - - 69.772 ms[39m
+[35m[39m
+2022-10-31 16:13:50:1350 - [35mhttp[39m : [35mGET /bird 304 - - 52.435 ms[39m
+[35m[39m
+2022-10-31 16:15:14:1514 - [35mhttp[39m : [35mGET /bird 304 - - 63.806 ms[39m
+[35m[39m
+2022-10-31 16:15:48:1548 - [35mhttp[39m : [35mGET /bird 304 - - 64.295 ms[39m
+[35m[39m
+2022-10-31 16:15:57:1557 - [35mhttp[39m : [35mGET /bird 304 - - 52.982 ms[39m
+[35m[39m
+2022-10-31 16:16:02:162 - [35mhttp[39m : [35mGET /bird 304 - - 64.476 ms[39m
+[35m[39m
+2022-10-31 16:16:02:162 - [35mhttp[39m : [35mGET /bird 304 - - 55.899 ms[39m
+[35m[39m
+2022-10-31 16:16:53:1653 - [35mhttp[39m : [35mGET /bird 304 - - 51.340 ms[39m
+[35m[39m
+2022-10-31 16:19:22:1922 - [35mhttp[39m : [35mGET /bird 304 - - 58.254 ms[39m
+[35m[39m
+2022-10-31 16:19:55:1955 - [35mhttp[39m : [35mGET /bird 304 - - 60.365 ms[39m
+[35m[39m
+2022-10-31 16:20:01:201 - [35mhttp[39m : [35mGET /bird 304 - - 60.531 ms[39m
+[35m[39m
+2022-10-31 16:21:43:2143 - [35mhttp[39m : [35mGET /bird 304 - - 51.179 ms[39m
+[35m[39m
+2022-10-31 16:21:49:2149 - [35mhttp[39m : [35mGET /bird 304 - - 53.802 ms[39m
+[35m[39m
+2022-10-31 16:22:13:2213 - [35mhttp[39m : [35mGET /bird 304 - - 76.387 ms[39m
+[35m[39m
+2022-10-31 16:22:27:2227 - [35mhttp[39m : [35mGET /bird 304 - - 50.771 ms[39m
+[35m[39m
+2022-10-31 16:22:27:2227 - [35mhttp[39m : [35mGET /bird 304 - - 52.673 ms[39m
+[35m[39m
+2022-10-31 16:24:01:241 - [35mhttp[39m : [35mGET /bird 304 - - 50.902 ms[39m
+[35m[39m
+2022-10-31 16:24:01:241 - [35mhttp[39m : [35mGET /bird 304 - - 65.042 ms[39m
+[35m[39m
+2022-10-31 16:25:07:257 - [35mhttp[39m : [35mGET /bird 304 - - 52.501 ms[39m
+[35m[39m
+2022-10-31 16:25:07:257 - [35mhttp[39m : [35mGET /bird 304 - - 53.042 ms[39m
+[35m[39m
+2022-10-31 16:25:25:2525 - [35mhttp[39m : [35mGET /bird 304 - - 62.043 ms[39m
+[35m[39m
+2022-10-31 16:25:28:2528 - [35mhttp[39m : [35mGET /bird 304 - - 226.161 ms[39m
+[35m[39m
+2022-10-31 16:25:28:2528 - [35mhttp[39m : [35mGET /bird 304 - - 53.001 ms[39m
+[35m[39m
+2022-10-31 16:25:34:2534 - [35mhttp[39m : [35mGET /bird 304 - - 56.558 ms[39m
+[35m[39m
+2022-10-31 16:25:34:2534 - [35mhttp[39m : [35mGET /bird 304 - - 51.849 ms[39m
+[35m[39m
+2022-10-31 16:25:43:2543 - [35mhttp[39m : [35mGET /bird 304 - - 49.644 ms[39m
+[35m[39m
+2022-10-31 16:25:43:2543 - [35mhttp[39m : [35mGET /bird 304 - - 264.916 ms[39m
+[35m[39m
+2022-10-31 16:27:04:274 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 65.357 ms[39m
+[35m[39m
+2022-10-31 16:27:04:274 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 55.638 ms[39m
+[35m[39m
+2022-10-31 16:27:07:277 - [35mhttp[39m : [35mGET /bird 304 - - 106.194 ms[39m
+[35m[39m
+2022-10-31 16:27:07:277 - [35mhttp[39m : [35mGET /bird 304 - - 97.588 ms[39m
+[35m[39m
+2022-10-31 16:27:33:2733 - [35mhttp[39m : [35mGET /bird 304 - - 63.372 ms[39m
+[35m[39m
+2022-10-31 16:28:21:2821 - [35mhttp[39m : [35mGET /bird 304 - - 234.419 ms[39m
+[35m[39m
+2022-10-31 16:28:21:2821 - [35mhttp[39m : [35mGET /bird 304 - - 92.469 ms[39m
+[35m[39m
+2022-10-31 16:28:26:2826 - [35mhttp[39m : [35mGET /bird 304 - - 53.197 ms[39m
+[35m[39m
+2022-10-31 16:28:27:2827 - [35mhttp[39m : [35mGET /bird 304 - - 315.524 ms[39m
+[35m[39m
+2022-10-31 16:28:40:2840 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 51.788 ms[39m
+[35m[39m
+2022-10-31 16:28:40:2840 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 57.094 ms[39m
+[35m[39m
+2022-10-31 16:29:21:2921 - [35mhttp[39m : [35mPOST /bird 422 167 - 26.409 ms[39m
+[35m[39m
+2022-10-31 16:31:14:3114 - [35mhttp[39m : [35mPOST /bird 201 253 - 104.065 ms[39m
+[35m[39m
+2022-10-31 16:31:35:3135 - [35mhttp[39m : [35mGET /bird 200 12311 - 81.958 ms[39m
+[35m[39m
+2022-10-31 16:31:35:3135 - [35mhttp[39m : [35mGET /bird 304 - - 81.231 ms[39m
+[35m[39m
+2022-10-31 16:31:42:3142 - [35mhttp[39m : [35mGET /bird/636022828132ace78146b187 200 370 - 44.590 ms[39m
+[35m[39m
+2022-10-31 16:31:42:3142 - [35mhttp[39m : [35mGET /bird/636022828132ace78146b187 304 - - 43.360 ms[39m
+[35m[39m
+2022-10-31 16:31:59:3159 - [35mhttp[39m : [35mGET /bird 304 - - 54.506 ms[39m
+[35m[39m
+2022-10-31 16:31:59:3159 - [35mhttp[39m : [35mGET /bird 304 - - 48.438 ms[39m
+[35m[39m
+2022-10-31 17:37:30:3730 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2022-10-31 17:37:30:3730 - [32minfo[39m : [32mA aplicação está rodando na porta: 3000[39m
+2022-10-31 17:38:28:3828 - [35mhttp[39m : [35mGET /bird 304 - - 104.437 ms[39m
+[35m[39m
+2022-10-31 17:38:28:3828 - [35mhttp[39m : [35mGET /bird 304 - - 61.665 ms[39m
+[35m[39m
+2022-10-31 17:38:35:3835 - [35mhttp[39m : [35mGET /bird 304 - - 68.848 ms[39m
+[35m[39m
+2022-10-31 17:38:35:3835 - [35mhttp[39m : [35mGET /bird 304 - - 48.722 ms[39m
+[35m[39m
+2022-10-31 17:39:02:392 - [35mhttp[39m : [35mGET /bird/636022828132ace78146b187 304 - - 54.797 ms[39m
+[35m[39m
+2022-10-31 17:39:02:392 - [35mhttp[39m : [35mGET /bird/636022828132ace78146b187 304 - - 44.517 ms[39m
+[35m[39m
+2022-10-31 17:39:05:395 - [35mhttp[39m : [35mGET /bird 304 - - 48.599 ms[39m
+[35m[39m
+2022-10-31 17:39:05:395 - [35mhttp[39m : [35mGET /bird 304 - - 49.229 ms[39m
+[35m[39m
+2022-10-31 17:39:22:3922 - [35mhttp[39m : [35mGET /bird 304 - - 76.116 ms[39m
+[35m[39m
+2022-10-31 17:39:22:3922 - [35mhttp[39m : [35mGET /bird 304 - - 56.471 ms[39m
+[35m[39m
+2022-10-31 17:39:23:3923 - [35mhttp[39m : [35mGET /bird 304 - - 50.356 ms[39m
+[35m[39m
+2022-10-31 17:39:23:3923 - [35mhttp[39m : [35mGET /bird 304 - - 49.037 ms[39m
+[35m[39m
+2022-10-31 17:39:24:3924 - [35mhttp[39m : [35mGET /bird 304 - - 49.020 ms[39m
+[35m[39m
+2022-10-31 17:39:24:3924 - [35mhttp[39m : [35mGET /bird 304 - - 46.855 ms[39m
+[35m[39m
+2022-10-31 17:39:41:3941 - [35mhttp[39m : [35mGET /bird 304 - - 47.987 ms[39m
+[35m[39m
+2022-10-31 17:39:41:3941 - [35mhttp[39m : [35mGET /bird 304 - - 47.989 ms[39m
+[35m[39m
+2022-10-31 17:40:50:4050 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 43.787 ms[39m
+[35m[39m
+2022-10-31 17:40:50:4050 - [35mhttp[39m : [35mGET /bird/634211c0024343d2eac455e7 304 - - 44.013 ms[39m
+[35m[39m
+2022-10-31 17:41:18:4118 - [35mhttp[39m : [35mGET /bird 304 - - 45.871 ms[39m
+[35m[39m
+2022-10-31 17:41:18:4118 - [35mhttp[39m : [35mGET /bird 304 - - 51.636 ms[39m
+[35m[39m
+2022-10-31 17:41:24:4124 - [35mhttp[39m : [35mGET /bird 304 - - 48.311 ms[39m
+[35m[39m
+2022-10-31 17:41:24:4124 - [35mhttp[39m : [35mGET /bird 304 - - 49.976 ms[39m
+[35m[39m
+2022-10-31 17:41:28:4128 - [35mhttp[39m : [35mGET /bird 304 - - 45.436 ms[39m
+[35m[39m
+2022-10-31 17:41:28:4128 - [35mhttp[39m : [35mGET /bird 304 - - 49.007 ms[39m
+[35m[39m
+2022-11-01 07:25:59:2559 - [35mhttp[39m : [35mGET /bird 200 3242 - 483.149 ms[39m
+[35m[39m
+2022-11-01 07:25:59:2559 - [35mhttp[39m : [35mGET /bird 304 - - 45.496 ms[39m
+[35m[39m
+2022-11-01 07:26:04:264 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 200 353 - 42.373 ms[39m
+[35m[39m
+2022-11-01 07:26:04:264 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 42.603 ms[39m
+[35m[39m
+2022-11-01 07:26:06:266 - [35mhttp[39m : [35mGET /bird 304 - - 57.559 ms[39m
+[35m[39m
+2022-11-01 07:26:06:266 - [35mhttp[39m : [35mGET /bird 304 - - 42.722 ms[39m
+[35m[39m
+2022-11-01 07:26:08:268 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 200 363 - 41.841 ms[39m
+[35m[39m
+2022-11-01 07:26:08:268 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.244 ms[39m
+[35m[39m
+2022-11-01 07:26:10:2610 - [35mhttp[39m : [35mGET /bird 304 - - 43.113 ms[39m
+[35m[39m
+2022-11-01 07:26:10:2610 - [35mhttp[39m : [35mGET /bird 304 - - 43.471 ms[39m
+[35m[39m
+2022-11-01 07:26:12:2612 - [35mhttp[39m : [35mGET /bird 304 - - 42.792 ms[39m
+[35m[39m
+2022-11-01 07:26:12:2612 - [35mhttp[39m : [35mGET /bird 304 - - 44.958 ms[39m
+[35m[39m
+2022-11-01 07:32:02:322 - [35mhttp[39m : [35mGET /bird 304 - - 43.365 ms[39m
+[35m[39m
+2022-11-01 07:32:04:324 - [35mhttp[39m : [35mGET /bird 304 - - 49.959 ms[39m
+[35m[39m
+2022-11-01 07:32:53:3253 - [35mhttp[39m : [35mGET /bird 304 - - 57.722 ms[39m
+[35m[39m
+2022-11-01 07:33:17:3317 - [35mhttp[39m : [35mGET /bird 304 - - 44.175 ms[39m
+[35m[39m
+2022-11-01 07:33:17:3317 - [35mhttp[39m : [35mGET /bird 304 - - 42.774 ms[39m
+[35m[39m
+2022-11-01 07:33:24:3324 - [35mhttp[39m : [35mGET /bird 304 - - 43.609 ms[39m
+[35m[39m
+2022-11-01 07:33:24:3324 - [35mhttp[39m : [35mGET /bird 304 - - 52.212 ms[39m
+[35m[39m
+2022-11-01 07:33:24:3324 - [35mhttp[39m : [35mGET /bird 304 - - 44.738 ms[39m
+[35m[39m
+2022-11-01 07:33:24:3324 - [35mhttp[39m : [35mGET /bird 304 - - 45.871 ms[39m
+[35m[39m
+2022-11-01 07:33:29:3329 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 200 310 - 41.693 ms[39m
+[35m[39m
+2022-11-01 07:33:29:3329 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 41.789 ms[39m
+[35m[39m
+2022-11-01 07:33:32:3332 - [35mhttp[39m : [35mGET /bird 304 - - 43.491 ms[39m
+[35m[39m
+2022-11-01 07:33:32:3332 - [35mhttp[39m : [35mGET /bird 304 - - 43.639 ms[39m
+[35m[39m
+2022-11-01 08:12:45:1245 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 44.405 ms[39m
+[35m[39m
+2022-11-01 08:12:45:1245 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 41.573 ms[39m
+[35m[39m
+2022-11-01 08:12:47:1247 - [35mhttp[39m : [35mGET /bird 304 - - 42.587 ms[39m
+[35m[39m
+2022-11-01 08:12:47:1247 - [35mhttp[39m : [35mGET /bird 304 - - 42.758 ms[39m
+[35m[39m
+2022-11-01 09:04:33:433 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 200 334 - 47.302 ms[39m
+[35m[39m
+2022-11-01 09:04:33:433 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 42.784 ms[39m
+[35m[39m
+2022-11-01 09:04:36:436 - [35mhttp[39m : [35mGET /bird 200 3293 - 44.488 ms[39m
+[35m[39m
+2022-11-01 09:04:36:436 - [35mhttp[39m : [35mGET /bird 304 - - 44.508 ms[39m
+[35m[39m
+2022-11-01 09:04:37:437 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 200 343 - 41.847 ms[39m
+[35m[39m
+2022-11-01 09:04:37:437 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 42.995 ms[39m
+[35m[39m
+2022-11-01 09:04:39:439 - [35mhttp[39m : [35mGET /bird 304 - - 46.493 ms[39m
+[35m[39m
+2022-11-01 09:04:39:439 - [35mhttp[39m : [35mGET /bird 304 - - 47.619 ms[39m
+[35m[39m
+2022-11-01 09:04:55:455 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 49.017 ms[39m
+[35m[39m
+2022-11-01 09:04:55:455 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 54.136 ms[39m
+[35m[39m
+2022-11-01 09:04:57:457 - [35mhttp[39m : [35mGET /bird 304 - - 43.862 ms[39m
+[35m[39m
+2022-11-01 09:04:57:457 - [35mhttp[39m : [35mGET /bird 304 - - 44.700 ms[39m
+[35m[39m
+2022-11-01 09:15:58:1558 - [35mhttp[39m : [35mGET /bird 304 - - 48.380 ms[39m
+[35m[39m
+2022-11-01 09:15:59:1559 - [35mhttp[39m : [35mGET /bird 304 - - 50.068 ms[39m
+[35m[39m
+2022-11-01 09:21:37:2137 - [35mhttp[39m : [35mGET /bird 304 - - 44.963 ms[39m
+[35m[39m
+2022-11-01 09:21:37:2137 - [35mhttp[39m : [35mGET /bird 304 - - 66.448 ms[39m
+[35m[39m
+2022-11-01 09:22:04:224 - [35mhttp[39m : [35mGET /bird 304 - - 44.087 ms[39m
+[35m[39m
+2022-11-01 09:22:04:224 - [35mhttp[39m : [35mGET /bird 304 - - 45.774 ms[39m
+[35m[39m
+2022-11-01 09:22:12:2212 - [35mhttp[39m : [35mGET /bird 304 - - 45.444 ms[39m
+[35m[39m
+2022-11-01 09:22:12:2212 - [35mhttp[39m : [35mGET /bird 304 - - 47.854 ms[39m
+[35m[39m
+2022-11-01 09:22:18:2218 - [35mhttp[39m : [35mGET /bird 304 - - 50.040 ms[39m
+[35m[39m
+2022-11-01 09:22:18:2218 - [35mhttp[39m : [35mGET /bird 304 - - 186.629 ms[39m
+[35m[39m
+2022-11-01 09:22:46:2246 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 200 309 - 45.082 ms[39m
+[35m[39m
+2022-11-01 09:22:46:2246 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 304 - - 44.182 ms[39m
+[35m[39m
+2022-11-01 09:22:51:2251 - [35mhttp[39m : [35mGET /bird 304 - - 43.231 ms[39m
+[35m[39m
+2022-11-01 09:22:51:2251 - [35mhttp[39m : [35mGET /bird 304 - - 42.497 ms[39m
+[35m[39m
+2022-11-01 09:23:41:2341 - [35mhttp[39m : [35mGET /bird 304 - - 51.514 ms[39m
+[35m[39m
+2022-11-01 09:23:41:2341 - [35mhttp[39m : [35mGET /bird 304 - - 47.774 ms[39m
+[35m[39m
+2022-11-01 09:23:42:2342 - [35mhttp[39m : [35mGET /bird 304 - - 48.994 ms[39m
+[35m[39m
+2022-11-01 09:23:42:2342 - [35mhttp[39m : [35mGET /bird 304 - - 45.035 ms[39m
+[35m[39m
+2022-11-01 09:26:22:2622 - [35mhttp[39m : [35mGET /bird 304 - - 54.536 ms[39m
+[35m[39m
+2022-11-01 09:26:22:2622 - [35mhttp[39m : [35mGET /bird 304 - - 47.449 ms[39m
+[35m[39m
+2022-11-01 09:27:08:278 - [35mhttp[39m : [35mGET /bird 304 - - 52.324 ms[39m
+[35m[39m
+2022-11-01 09:27:08:278 - [35mhttp[39m : [35mGET /bird 304 - - 49.665 ms[39m
+[35m[39m
+2022-11-01 11:52:57:5257 - [32minfo[39m : [32mConectou ao banco de dados![39m
+2022-11-01 11:52:57:5257 - [32minfo[39m : [32mA aplicação está rodando na porta: 3000[39m
+2022-11-01 11:54:04:544 - [35mhttp[39m : [35mGET /bird 304 - - 71.008 ms[39m
+[35m[39m
+2022-11-01 11:54:04:544 - [35mhttp[39m : [35mGET /bird 304 - - 53.169 ms[39m
+[35m[39m
+2022-11-01 11:56:52:5652 - [35mhttp[39m : [35mGET /bird/636077c4eeface7332c1ab7b 200 331 - 61.696 ms[39m
+[35m[39m
+2022-11-01 11:56:52:5652 - [35mhttp[39m : [35mGET /bird/636077c4eeface7332c1ab7b 304 - - 42.978 ms[39m
+[35m[39m
+2022-11-01 11:56:54:5654 - [35mhttp[39m : [35mGET /bird 304 - - 47.810 ms[39m
+[35m[39m
+2022-11-01 11:56:54:5654 - [35mhttp[39m : [35mGET /bird 304 - - 48.220 ms[39m
+[35m[39m
+2022-11-01 11:57:13:5713 - [35mhttp[39m : [35mGET /bird 304 - - 44.603 ms[39m
+[35m[39m
+2022-11-01 11:57:13:5713 - [35mhttp[39m : [35mGET /bird 304 - - 45.632 ms[39m
+[35m[39m
+2022-11-01 11:57:23:5723 - [35mhttp[39m : [35mGET /bird 304 - - 46.001 ms[39m
+[35m[39m
+2022-11-01 11:57:23:5723 - [35mhttp[39m : [35mGET /bird 304 - - 46.157 ms[39m
+[35m[39m
+2022-11-01 11:58:10:5810 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 200 326 - 43.689 ms[39m
+[35m[39m
+2022-11-01 11:58:10:5810 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 43.091 ms[39m
+[35m[39m
+2022-11-01 11:58:28:5828 - [35mhttp[39m : [35mGET /bird 304 - - 44.637 ms[39m
+[35m[39m
+2022-11-01 11:58:28:5828 - [35mhttp[39m : [35mGET /bird 304 - - 43.309 ms[39m
+[35m[39m
+2022-11-01 11:58:29:5829 - [35mhttp[39m : [35mGET /bird 304 - - 45.588 ms[39m
+[35m[39m
+2022-11-01 11:58:29:5829 - [35mhttp[39m : [35mGET /bird 304 - - 44.403 ms[39m
+[35m[39m
+2022-11-01 11:58:30:5830 - [35mhttp[39m : [35mGET /bird 304 - - 43.030 ms[39m
+[35m[39m
+2022-11-01 11:58:30:5830 - [35mhttp[39m : [35mGET /bird 304 - - 58.361 ms[39m
+[35m[39m
+2022-11-01 11:59:35:5935 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 44.242 ms[39m
+[35m[39m
+2022-11-01 11:59:35:5935 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 42.997 ms[39m
+[35m[39m
+2022-11-01 12:03:11:311 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 47.314 ms[39m
+[35m[39m
+2022-11-01 12:03:11:311 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 45.699 ms[39m
+[35m[39m
+2022-11-01 12:05:11:511 - [35mhttp[39m : [35mGET /bird 304 - - 46.109 ms[39m
+[35m[39m
+2022-11-01 12:05:11:511 - [35mhttp[39m : [35mGET /bird 304 - - 47.254 ms[39m
+[35m[39m
+2022-11-01 12:07:05:75 - [35mhttp[39m : [35mGET /bird 304 - - 46.674 ms[39m
+[35m[39m
+2022-11-01 12:07:05:75 - [35mhttp[39m : [35mGET /bird 304 - - 44.841 ms[39m
+[35m[39m
+2022-11-01 12:07:09:79 - [35mhttp[39m : [35mGET /bird 304 - - 46.525 ms[39m
+[35m[39m
+2022-11-01 12:07:09:79 - [35mhttp[39m : [35mGET /bird 304 - - 44.395 ms[39m
+[35m[39m
+2022-11-01 12:07:11:711 - [35mhttp[39m : [35mGET /bird/636080f6c0b93ad577ff9d73 200 323 - 47.134 ms[39m
+[35m[39m
+2022-11-01 12:07:11:711 - [35mhttp[39m : [35mGET /bird/636080f6c0b93ad577ff9d73 304 - - 43.744 ms[39m
+[35m[39m
+2022-11-01 12:07:13:713 - [35mhttp[39m : [35mGET /bird 304 - - 45.580 ms[39m
+[35m[39m
+2022-11-01 12:07:13:713 - [35mhttp[39m : [35mGET /bird 304 - - 45.384 ms[39m
+[35m[39m
+2022-11-01 12:09:29:929 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 46.733 ms[39m
+[35m[39m
+2022-11-01 12:09:29:929 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 44.430 ms[39m
+[35m[39m
+2022-11-01 12:09:32:932 - [35mhttp[39m : [35mGET /bird 304 - - 44.773 ms[39m
+[35m[39m
+2022-11-01 12:09:32:932 - [35mhttp[39m : [35mGET /bird 304 - - 43.841 ms[39m
+[35m[39m
+2022-11-01 12:09:50:950 - [35mhttp[39m : [35mGET /bird 304 - - 45.313 ms[39m
+[35m[39m
+2022-11-01 12:09:50:950 - [35mhttp[39m : [35mGET /bird 304 - - 46.417 ms[39m
+[35m[39m
+2022-11-01 12:09:51:951 - [35mhttp[39m : [35mGET /bird 304 - - 48.674 ms[39m
+[35m[39m
+2022-11-01 12:09:51:951 - [35mhttp[39m : [35mGET /bird 304 - - 44.630 ms[39m
+[35m[39m
+2022-11-01 12:09:53:953 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 200 373 - 43.522 ms[39m
+[35m[39m
+2022-11-01 12:09:53:953 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 43.373 ms[39m
+[35m[39m
+2022-11-01 12:09:54:954 - [35mhttp[39m : [35mGET /bird 304 - - 44.475 ms[39m
+[35m[39m
+2022-11-01 12:09:54:954 - [35mhttp[39m : [35mGET /bird 304 - - 43.765 ms[39m
+[35m[39m
+2022-11-01 12:10:06:106 - [35mhttp[39m : [35mGET /bird 304 - - 45.505 ms[39m
+[35m[39m
+2022-11-01 12:10:06:106 - [35mhttp[39m : [35mGET /bird 304 - - 47.898 ms[39m
+[35m[39m
+2022-11-01 12:10:19:1019 - [35mhttp[39m : [35mGET /bird 304 - - 44.342 ms[39m
+[35m[39m
+2022-11-01 12:10:19:1019 - [35mhttp[39m : [35mGET /bird 304 - - 52.427 ms[39m
+[35m[39m
+2022-11-01 12:10:19:1019 - [35mhttp[39m : [35mGET /bird 304 - - 44.836 ms[39m
+[35m[39m
+2022-11-01 12:10:19:1019 - [35mhttp[39m : [35mGET /bird 304 - - 56.490 ms[39m
+[35m[39m
+2022-11-01 12:10:20:1020 - [35mhttp[39m : [35mGET /bird 304 - - 44.643 ms[39m
+[35m[39m
+2022-11-01 12:10:20:1020 - [35mhttp[39m : [35mGET /bird 304 - - 45.823 ms[39m
+[35m[39m
+2022-11-01 12:12:20:1220 - [35mhttp[39m : [35mGET /bird/6360794aeeface7332c1ab7d 200 339 - 43.645 ms[39m
+[35m[39m
+2022-11-01 12:12:20:1220 - [35mhttp[39m : [35mGET /bird/6360794aeeface7332c1ab7d 304 - - 56.905 ms[39m
+[35m[39m
+2022-11-01 12:12:27:1227 - [35mhttp[39m : [35mGET /bird 304 - - 45.447 ms[39m
+[35m[39m
+2022-11-01 12:12:27:1227 - [35mhttp[39m : [35mGET /bird 304 - - 45.893 ms[39m
+[35m[39m
+2022-11-01 12:12:28:1228 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 45.519 ms[39m
+[35m[39m
+2022-11-01 12:12:29:1229 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 46.539 ms[39m
+[35m[39m
+2022-11-01 12:12:30:1230 - [35mhttp[39m : [35mGET /bird 304 - - 44.531 ms[39m
+[35m[39m
+2022-11-01 12:12:30:1230 - [35mhttp[39m : [35mGET /bird 304 - - 47.258 ms[39m
+[35m[39m
+2022-11-01 12:12:34:1234 - [35mhttp[39m : [35mGET /bird 304 - - 44.381 ms[39m
+[35m[39m
+2022-11-01 12:12:34:1234 - [35mhttp[39m : [35mGET /bird 304 - - 45.130 ms[39m
+[35m[39m
+2022-11-01 12:12:35:1235 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 47.277 ms[39m
+[35m[39m
+2022-11-01 12:12:35:1235 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 50.084 ms[39m
+[35m[39m
+2022-11-01 12:12:36:1236 - [35mhttp[39m : [35mGET /bird 304 - - 46.778 ms[39m
+[35m[39m
+2022-11-01 12:12:36:1236 - [35mhttp[39m : [35mGET /bird 304 - - 46.139 ms[39m
+[35m[39m
+2022-11-01 12:14:01:141 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 43.554 ms[39m
+[35m[39m
+2022-11-01 12:14:01:141 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 43.286 ms[39m
+[35m[39m
+2022-11-01 12:14:03:143 - [35mhttp[39m : [35mGET /bird 304 - - 44.992 ms[39m
+[35m[39m
+2022-11-01 12:14:03:143 - [35mhttp[39m : [35mGET /bird 304 - - 45.236 ms[39m
+[35m[39m
+2022-11-01 12:14:13:1413 - [35mhttp[39m : [35mGET /bird 304 - - 45.132 ms[39m
+[35m[39m
+2022-11-01 12:14:13:1413 - [35mhttp[39m : [35mGET /bird 304 - - 43.628 ms[39m
+[35m[39m
+2022-11-01 12:16:29:1629 - [35mhttp[39m : [35mGET /bird 304 - - 43.916 ms[39m
+[35m[39m
+2022-11-01 12:16:29:1629 - [35mhttp[39m : [35mGET /bird 304 - - 41.832 ms[39m
+[35m[39m
+2022-11-01 12:16:32:1632 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 41.796 ms[39m
+[35m[39m
+2022-11-01 12:16:32:1632 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 41.665 ms[39m
+[35m[39m
+2022-11-01 12:16:35:1635 - [35mhttp[39m : [35mGET /bird 304 - - 42.389 ms[39m
+[35m[39m
+2022-11-01 12:16:35:1635 - [35mhttp[39m : [35mGET /bird 304 - - 43.116 ms[39m
+[35m[39m
+2022-11-01 12:16:39:1639 - [35mhttp[39m : [35mGET /bird 304 - - 43.169 ms[39m
+[35m[39m
+2022-11-01 12:16:39:1639 - [35mhttp[39m : [35mGET /bird 304 - - 42.232 ms[39m
+[35m[39m
+2022-11-01 12:16:52:1652 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 41.833 ms[39m
+[35m[39m
+2022-11-01 12:16:52:1652 - [35mhttp[39m : [35mGET /bird/63607a27eeface7332c1ab7e 304 - - 42.640 ms[39m
+[35m[39m
+2022-11-01 12:16:54:1654 - [35mhttp[39m : [35mGET /bird 304 - - 43.874 ms[39m
+[35m[39m
+2022-11-01 12:16:54:1654 - [35mhttp[39m : [35mGET /bird 304 - - 43.069 ms[39m
+[35m[39m
+2022-11-01 12:17:08:178 - [35mhttp[39m : [35mGET /bird 304 - - 44.036 ms[39m
+[35m[39m
+2022-11-01 12:17:08:178 - [35mhttp[39m : [35mGET /bird 304 - - 42.219 ms[39m
+[35m[39m
+2022-11-01 12:17:17:1717 - [35mhttp[39m : [35mGET /bird 304 - - 42.458 ms[39m
+[35m[39m
+2022-11-01 12:17:17:1717 - [35mhttp[39m : [35mGET /bird 304 - - 42.996 ms[39m
+[35m[39m
+2022-11-01 12:17:32:1732 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 304 - - 44.690 ms[39m
+[35m[39m
+2022-11-01 12:17:32:1732 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 304 - - 44.069 ms[39m
+[35m[39m
+2022-11-01 12:17:33:1733 - [35mhttp[39m : [35mGET /bird 304 - - 43.867 ms[39m
+[35m[39m
+2022-11-01 12:17:33:1733 - [35mhttp[39m : [35mGET /bird 304 - - 51.404 ms[39m
+[35m[39m
+2022-11-01 12:17:35:1735 - [35mhttp[39m : [35mGET /bird 304 - - 43.829 ms[39m
+[35m[39m
+2022-11-01 12:17:35:1735 - [35mhttp[39m : [35mGET /bird 304 - - 44.901 ms[39m
+[35m[39m
+2022-11-01 12:17:37:1737 - [35mhttp[39m : [35mGET /bird 304 - - 42.782 ms[39m
+[35m[39m
+2022-11-01 12:17:37:1737 - [35mhttp[39m : [35mGET /bird 304 - - 42.837 ms[39m
+[35m[39m
+2022-11-01 12:17:41:1741 - [35mhttp[39m : [35mGET /bird 304 - - 42.686 ms[39m
+[35m[39m
+2022-11-01 12:17:41:1741 - [35mhttp[39m : [35mGET /bird 304 - - 42.779 ms[39m
+[35m[39m
+2022-11-01 12:17:43:1743 - [35mhttp[39m : [35mGET /bird 304 - - 42.629 ms[39m
+[35m[39m
+2022-11-01 12:17:43:1743 - [35mhttp[39m : [35mGET /bird 304 - - 44.682 ms[39m
+[35m[39m
+2022-11-01 12:17:46:1746 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.694 ms[39m
+[35m[39m
+2022-11-01 12:17:46:1746 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 41.743 ms[39m
+[35m[39m
+2022-11-01 12:18:47:1847 - [35mhttp[39m : [35mGET /bird 304 - - 43.412 ms[39m
+[35m[39m
+2022-11-01 12:18:48:1848 - [35mhttp[39m : [35mGET /bird 304 - - 57.878 ms[39m
+[35m[39m
+2022-11-01 12:19:08:198 - [35mhttp[39m : [35mGET /bird 304 - - 44.018 ms[39m
+[35m[39m
+2022-11-01 12:19:08:198 - [35mhttp[39m : [35mGET /bird 304 - - 55.452 ms[39m
+[35m[39m
+2022-11-01 12:19:13:1913 - [35mhttp[39m : [35mGET /bird 304 - - 44.485 ms[39m
+[35m[39m
+2022-11-01 12:19:13:1913 - [35mhttp[39m : [35mGET /bird 304 - - 45.244 ms[39m
+[35m[39m
+2022-11-01 12:19:15:1915 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.825 ms[39m
+[35m[39m
+2022-11-01 12:19:15:1915 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.222 ms[39m
+[35m[39m
+2022-11-01 12:19:20:1920 - [35mhttp[39m : [35mGET /bird 304 - - 54.843 ms[39m
+[35m[39m
+2022-11-01 12:19:20:1920 - [35mhttp[39m : [35mGET /bird 304 - - 41.607 ms[39m
+[35m[39m
+2022-11-01 12:19:37:1937 - [35mhttp[39m : [35mGET /bird 304 - - 43.984 ms[39m
+[35m[39m
+2022-11-01 12:19:37:1937 - [35mhttp[39m : [35mGET /bird 304 - - 44.465 ms[39m
+[35m[39m
+2022-11-01 12:19:39:1939 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 69.211 ms[39m
+[35m[39m
+2022-11-01 12:19:39:1939 - [35mhttp[39m : [35mGET /bird/636071a8eeface7332c1ab78 304 - - 46.243 ms[39m
+[35m[39m
+2022-11-01 12:19:41:1941 - [35mhttp[39m : [35mGET /bird 304 - - 43.352 ms[39m
+[35m[39m
+2022-11-01 12:19:41:1941 - [35mhttp[39m : [35mGET /bird 304 - - 43.007 ms[39m
+[35m[39m
+2022-11-01 12:19:44:1944 - [35mhttp[39m : [35mGET /bird 304 - - 43.972 ms[39m
+[35m[39m
+2022-11-01 12:19:44:1944 - [35mhttp[39m : [35mGET /bird 304 - - 42.513 ms[39m
+[35m[39m
+2022-11-01 12:19:45:1945 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.548 ms[39m
+[35m[39m
+2022-11-01 12:19:45:1945 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 57.237 ms[39m
+[35m[39m
+2022-11-01 12:19:46:1946 - [35mhttp[39m : [35mGET /bird 304 - - 41.748 ms[39m
+[35m[39m
+2022-11-01 12:19:47:1947 - [35mhttp[39m : [35mGET /bird 304 - - 46.968 ms[39m
+[35m[39m
+2022-11-01 12:19:49:1949 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 304 - - 42.299 ms[39m
+[35m[39m
+2022-11-01 12:19:49:1949 - [35mhttp[39m : [35mGET /bird/636081dcc0b93ad577ff9d74 304 - - 42.035 ms[39m
+[35m[39m
+2022-11-01 12:20:05:205 - [35mhttp[39m : [35mGET /bird 304 - - 42.289 ms[39m
+[35m[39m
+2022-11-01 12:20:05:205 - [35mhttp[39m : [35mGET /bird 304 - - 44.881 ms[39m
+[35m[39m
+2022-11-01 12:20:06:206 - [35mhttp[39m : [35mGET /bird 304 - - 43.744 ms[39m
+[35m[39m
+2022-11-01 12:20:06:206 - [35mhttp[39m : [35mGET /bird 304 - - 42.559 ms[39m
+[35m[39m
+2022-11-01 12:25:39:2539 - [35mhttp[39m : [35mGET /bird 304 - - 45.858 ms[39m
+[35m[39m
+2022-11-01 12:25:45:2545 - [35mhttp[39m : [35mGET /bird 304 - - 75.520 ms[39m
+[35m[39m
+2022-11-01 12:25:45:2545 - [35mhttp[39m : [35mGET /bird 304 - - 42.652 ms[39m
+[35m[39m
+2022-11-01 12:26:01:261 - [35mhttp[39m : [35mGET /bird 304 - - 45.612 ms[39m
+[35m[39m
+2022-11-01 12:26:05:265 - [35mhttp[39m : [35mGET /bird 304 - - 45.047 ms[39m
+[35m[39m
+2022-11-01 12:26:07:267 - [35mhttp[39m : [35mGET /bird 304 - - 44.247 ms[39m
+[35m[39m
+2022-11-01 12:26:07:267 - [35mhttp[39m : [35mGET /bird 304 - - 43.805 ms[39m
+[35m[39m
+2022-11-01 12:28:44:2844 - [35mhttp[39m : [35mGET /bird 304 - - 70.278 ms[39m
+[35m[39m
+2022-11-01 12:28:50:2850 - [35mhttp[39m : [35mGET /bird 304 - - 49.876 ms[39m
+[35m[39m
+2022-11-01 12:28:50:2850 - [35mhttp[39m : [35mGET /bird 304 - - 43.772 ms[39m
+[35m[39m
+2022-11-01 12:29:26:2926 - [35mhttp[39m : [35mGET /bird 304 - - 49.540 ms[39m
+[35m[39m
+2022-11-01 12:29:26:2926 - [35mhttp[39m : [35mGET /bird 304 - - 53.360 ms[39m
+[35m[39m
+2022-11-01 12:29:28:2928 - [35mhttp[39m : [35mGET /bird 304 - - 51.499 ms[39m
+[35m[39m
+2022-11-01 12:29:34:2934 - [35mhttp[39m : [35mGET /bird 304 - - 48.294 ms[39m
+[35m[39m
+2022-11-01 12:29:34:2934 - [35mhttp[39m : [35mGET /bird 304 - - 43.796 ms[39m
+[35m[39m
+2022-11-01 12:29:45:2945 - [35mhttp[39m : [35mGET /bird 304 - - 50.260 ms[39m
+[35m[39m
+2022-11-01 12:30:08:308 - [35mhttp[39m : [35mGET /bird/636077c4eeface7332c1ab7b 304 - - 50.463 ms[39m
+[35m[39m
+2022-11-01 12:30:08:308 - [35mhttp[39m : [35mGET /bird/636077c4eeface7332c1ab7b 304 - - 43.200 ms[39m
+[35m[39m
+2022-11-01 12:30:10:3010 - [35mhttp[39m : [35mGET /bird 304 - - 44.375 ms[39m
+[35m[39m
+2022-11-01 12:30:10:3010 - [35mhttp[39m : [35mGET /bird 304 - - 43.381 ms[39m
+[35m[39m
+2022-11-01 12:30:15:3015 - [35mhttp[39m : [35mGET /bird 304 - - 44.882 ms[39m
+[35m[39m
+2022-11-01 12:30:15:3015 - [35mhttp[39m : [35mGET /bird 304 - - 43.619 ms[39m
+[35m[39m
+2022-11-01 12:30:25:3025 - [35mhttp[39m : [35mGET /bird 304 - - 44.945 ms[39m
+[35m[39m
+2022-11-01 12:30:25:3025 - [35mhttp[39m : [35mGET /bird 304 - - 44.867 ms[39m
+[35m[39m
+2022-11-01 12:30:33:3033 - [35mhttp[39m : [35mGET /bird 304 - - 187.825 ms[39m
+[35m[39m
+2022-11-01 12:30:33:3033 - [35mhttp[39m : [35mGET /bird 304 - - 43.035 ms[39m
+[35m[39m
+2022-11-01 12:36:12:3612 - [35mhttp[39m : [35mGET /bird 304 - - 43.327 ms[39m
+[35m[39m
+2022-11-01 12:36:12:3612 - [35mhttp[39m : [35mGET /bird 304 - - 41.842 ms[39m
+[35m[39m
+2022-11-01 12:36:15:3615 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.840 ms[39m
+[35m[39m
+2022-11-01 12:36:15:3615 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 41.100 ms[39m
+[35m[39m
+2022-11-01 12:36:27:3627 - [35mhttp[39m : [35mGET /bird 304 - - 45.521 ms[39m
+[35m[39m
+2022-11-01 12:36:27:3627 - [35mhttp[39m : [35mGET /bird 304 - - 44.879 ms[39m
+[35m[39m
+2022-11-01 12:36:33:3633 - [35mhttp[39m : [35mGET /bird 304 - - 42.664 ms[39m
+[35m[39m
+2022-11-01 12:36:33:3633 - [35mhttp[39m : [35mGET /bird 304 - - 45.180 ms[39m
+[35m[39m
+2022-11-01 12:36:40:3640 - [35mhttp[39m : [35mGET /bird 304 - - 43.026 ms[39m
+[35m[39m
+2022-11-01 12:36:40:3640 - [35mhttp[39m : [35mGET /bird 304 - - 42.582 ms[39m
+[35m[39m
+2022-11-01 12:36:44:3644 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 41.701 ms[39m
+[35m[39m
+2022-11-01 12:36:44:3644 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 41.976 ms[39m
+[35m[39m
+2022-11-01 12:37:36:3736 - [35mhttp[39m : [35mGET /bird 304 - - 46.669 ms[39m
+[35m[39m
+2022-11-01 12:37:36:3736 - [35mhttp[39m : [35mGET /bird 304 - - 44.686 ms[39m
+[35m[39m
+2022-11-01 12:37:44:3744 - [35mhttp[39m : [35mGET /bird 304 - - 41.456 ms[39m
+[35m[39m
+2022-11-01 12:37:44:3744 - [35mhttp[39m : [35mGET /bird 304 - - 42.307 ms[39m
+[35m[39m
+2022-11-01 12:38:01:381 - [35mhttp[39m : [35mGET /bird 304 - - 42.032 ms[39m
+[35m[39m
+2022-11-01 12:38:01:381 - [35mhttp[39m : [35mGET /bird 304 - - 45.503 ms[39m
+[35m[39m
+2022-11-01 12:38:16:3816 - [35mhttp[39m : [35mGET /bird 304 - - 42.698 ms[39m
+[35m[39m
+2022-11-01 12:38:16:3816 - [35mhttp[39m : [35mGET /bird 304 - - 45.188 ms[39m
+[35m[39m
+2022-11-01 12:38:31:3831 - [35mhttp[39m : [35mGET /bird 304 - - 42.393 ms[39m
+[35m[39m
+2022-11-01 12:38:31:3831 - [35mhttp[39m : [35mGET /bird 304 - - 41.973 ms[39m
+[35m[39m
+2022-11-01 12:38:51:3851 - [35mhttp[39m : [35mGET /bird 304 - - 43.663 ms[39m
+[35m[39m
+2022-11-01 12:38:51:3851 - [35mhttp[39m : [35mGET /bird 304 - - 42.551 ms[39m
+[35m[39m
+2022-11-01 12:38:54:3854 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 43.037 ms[39m
+[35m[39m
+2022-11-01 12:38:54:3854 - [35mhttp[39m : [35mGET /bird/636066bfeeface7332c1ab75 304 - - 42.468 ms[39m
+[35m[39m
+2022-11-01 12:38:58:3858 - [35mhttp[39m : [35mGET /bird 304 - - 46.808 ms[39m
+[35m[39m
+2022-11-01 12:38:58:3858 - [35mhttp[39m : [35mGET /bird 304 - - 50.310 ms[39m
+[35m[39m
+2022-11-01 12:39:01:391 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 41.365 ms[39m
+[35m[39m
+2022-11-01 12:39:01:391 - [35mhttp[39m : [35mGET /bird/6360752beeface7332c1ab79 304 - - 41.316 ms[39m
+[35m[39m
+2022-11-01 12:39:02:392 - [35mhttp[39m : [35mGET /bird 304 - - 43.263 ms[39m
+[35m[39m
+2022-11-01 12:39:02:392 - [35mhttp[39m : [35mGET /bird 304 - - 46.154 ms[39m
+[35m[39m
+2022-11-01 12:39:05:395 - [35mhttp[39m : [35mGET /bird 304 - - 41.678 ms[39m
+[35m[39m
+2022-11-01 12:39:05:395 - [35mhttp[39m : [35mGET /bird 304 - - 43.905 ms[39m
+[35m[39m
+2022-11-01 12:39:14:3914 - [35mhttp[39m : [35mGET /bird 304 - - 43.603 ms[39m
+[35m[39m
+2022-11-01 12:39:14:3914 - [35mhttp[39m : [35mGET /bird 304 - - 46.581 ms[39m
+[35m[39m
+2022-11-01 12:40:42:4042 - [35mhttp[39m : [35mGET /bird 304 - - 63.747 ms[39m
+[35m[39m
+2022-11-01 12:40:42:4042 - [35mhttp[39m : [35mGET /bird 304 - - 46.665 ms[39m
+[35m[39m
+2022-11-01 12:41:25:4125 - [35mhttp[39m : [35mGET /bird 304 - - 42.033 ms[39m
+[35m[39m
+2022-11-01 12:41:25:4125 - [35mhttp[39m : [35mGET /bird 304 - - 44.037 ms[39m
+[35m[39m
+2022-11-01 12:41:26:4126 - [35mhttp[39m : [35mGET /bird 304 - - 54.185 ms[39m
+[35m[39m
+2022-11-01 12:41:29:4129 - [35mhttp[39m : [35mGET /bird 304 - - 50.288 ms[39m
+[35m[39m
+2022-11-01 12:41:29:4129 - [35mhttp[39m : [35mGET /bird 304 - - 44.533 ms[39m
+[35m[39m
+2022-11-01 12:41:45:4145 - [35mhttp[39m : [35mGET /bird 304 - - 43.850 ms[39m
+[35m[39m
+2022-11-01 12:41:53:4153 - [35mhttp[39m : [35mGET /bird 304 - - 46.197 ms[39m
+[35m[39m
+2022-11-01 12:41:53:4153 - [35mhttp[39m : [35mGET /bird 304 - - 44.316 ms[39m
+[35m[39m
+2022-11-01 12:42:09:429 - [35mhttp[39m : [35mGET /bird 304 - - 50.847 ms[39m
+[35m[39m
+2022-11-01 12:42:09:429 - [35mhttp[39m : [35mGET /bird 304 - - 47.816 ms[39m
+[35m[39m
+2022-11-01 12:42:47:4247 - [35mhttp[39m : [35mGET /bird 304 - - 41.720 ms[39m
+[35m[39m
+2022-11-01 12:43:00:430 - [35mhttp[39m : [35mGET /bird 304 - - 41.660 ms[39m
+[35m[39m
+2022-11-01 12:43:00:430 - [35mhttp[39m : [35mGET /bird 304 - - 43.708 ms[39m
+[35m[39m
+2022-11-01 12:44:46:4446 - [35mhttp[39m : [35mGET /bird 304 - - 43.393 ms[39m
+[35m[39m
+2022-11-01 12:44:46:4446 - [35mhttp[39m : [35mGET /bird 304 - - 43.157 ms[39m
+[35m[39m
+2022-11-01 12:44:48:4448 - [35mhttp[39m : [35mGET /bird 304 - - 47.072 ms[39m
+[35m[39m
+2022-11-01 12:45:06:456 - [35mhttp[39m : [35mGET /bird 304 - - 41.632 ms[39m
+[35m[39m
+2022-11-01 12:45:06:456 - [35mhttp[39m : [35mGET /bird 304 - - 42.773 ms[39m
+[35m[39m
+2022-11-01 12:45:48:4548 - [35mhttp[39m : [35mGET /bird 304 - - 44.614 ms[39m
+[35m[39m
+2022-11-01 12:45:49:4549 - [35mhttp[39m : [35mGET /bird 304 - - 45.277 ms[39m
+[35m[39m
+2022-11-01 12:45:49:4549 - [35mhttp[39m : [35mGET /bird 304 - - 46.778 ms[39m
+[35m[39m
+2022-11-01 12:45:57:4557 - [35mhttp[39m : [35mGET /bird 304 - - 54.153 ms[39m
+[35m[39m
+2022-11-01 12:45:58:4558 - [35mhttp[39m : [35mGET /bird 304 - - 51.475 ms[39m
+[35m[39m
+2022-11-01 12:45:58:4558 - [35mhttp[39m : [35mGET /bird 304 - - 50.306 ms[39m
+[35m[39m
+2022-11-01 12:46:02:462 - [35mhttp[39m : [35mGET /bird 304 - - 77.460 ms[39m
+[35m[39m
+2022-11-01 12:46:03:463 - [35mhttp[39m : [35mGET /bird 304 - - 48.286 ms[39m
+[35m[39m
+2022-11-01 12:46:05:465 - [35mhttp[39m : [35mGET /bird 304 - - 48.049 ms[39m
+[35m[39m
+2022-11-01 12:46:05:465 - [35mhttp[39m : [35mGET /bird 304 - - 70.829 ms[39m
+[35m[39m
+2022-11-01 12:46:08:468 - [35mhttp[39m : [35mGET /bird 304 - - 45.245 ms[39m
+[35m[39m
+2022-11-01 12:46:08:468 - [35mhttp[39m : [35mGET /bird 304 - - 45.430 ms[39m
+[35m[39m
+2022-11-01 12:46:30:4630 - [35mhttp[39m : [35mGET /bird 304 - - 46.683 ms[39m
+[35m[39m
+2022-11-01 12:46:30:4630 - [35mhttp[39m : [35mGET /bird 304 - - 48.477 ms[39m
+[35m[39m
+2022-11-01 12:46:43:4643 - [35mhttp[39m : [35mGET /bird 304 - - 45.212 ms[39m
+[35m[39m
+2022-11-01 12:46:43:4643 - [35mhttp[39m : [35mGET /bird 304 - - 43.930 ms[39m
+[35m[39m
+2022-11-01 12:46:45:4645 - [35mhttp[39m : [35mGET /bird 304 - - 52.054 ms[39m
+[35m[39m
+2022-11-01 12:46:45:4645 - [35mhttp[39m : [35mGET /bird 304 - - 44.445 ms[39m
+[35m[39m
+2022-11-01 12:46:53:4653 - [35mhttp[39m : [35mGET /bird 304 - - 47.807 ms[39m
+[35m[39m
+2022-11-01 12:46:53:4653 - [35mhttp[39m : [35mGET /bird 304 - - 60.128 ms[39m
+[35m[39m
+2022-11-01 12:46:57:4657 - [35mhttp[39m : [35mGET /bird 304 - - 50.878 ms[39m
+[35m[39m
+2022-11-01 12:46:57:4657 - [35mhttp[39m : [35mGET /bird 304 - - 43.112 ms[39m
+[35m[39m
+2022-11-01 12:47:01:471 - [35mhttp[39m : [35mGET /bird 304 - - 43.884 ms[39m
+[35m[39m
+2022-11-01 12:47:01:471 - [35mhttp[39m : [35mGET /bird 304 - - 46.568 ms[39m
+[35m[39m
+2022-11-01 12:48:41:4841 - [35mhttp[39m : [35mGET /bird 304 - - 48.964 ms[39m
+[35m[39m
+2022-11-01 12:48:52:4852 - [35mhttp[39m : [35mGET /bird 304 - - 49.492 ms[39m
+[35m[39m
+2022-11-01 12:49:45:4945 - [35mhttp[39m : [35mGET /bird 304 - - 51.228 ms[39m
+[35m[39m
+2022-11-01 12:49:59:4959 - [35mhttp[39m : [35mGET /bird 304 - - 45.054 ms[39m
+[35m[39m
+2022-11-01 12:50:03:503 - [35mhttp[39m : [35mGET /bird 304 - - 48.392 ms[39m
+[35m[39m
+2022-11-01 12:50:18:5018 - [35mhttp[39m : [35mGET /bird 304 - - 47.207 ms[39m
+[35m[39m
+2022-11-01 12:50:49:5049 - [35mhttp[39m : [35mGET /bird 304 - - 46.881 ms[39m
+[35m[39m
+2022-11-01 12:50:49:5049 - [35mhttp[39m : [35mGET /bird 304 - - 44.510 ms[39m
+[35m[39m
+2022-11-01 12:50:51:5051 - [35mhttp[39m : [35mGET /bird 304 - - 53.914 ms[39m
+[35m[39m
+2022-11-01 12:50:51:5051 - [35mhttp[39m : [35mGET /bird 304 - - 47.669 ms[39m
+[35m[39m
+2022-11-01 12:55:01:551 - [35mhttp[39m : [35mGET /bird 200 3295 - 49.662 ms[39m
+[35m[39m
+2022-11-01 12:56:40:5640 - [35mhttp[39m : [35mGET /bird 304 - - 45.593 ms[39m
+[35m[39m
+2022-11-01 12:57:33:5733 - [35mhttp[39m : [35mGET /bird 304 - - 45.327 ms[39m
+[35m[39m
+2022-11-01 12:57:33:5733 - [35mhttp[39m : [35mGET /bird 304 - - 44.710 ms[39m
+[35m[39m
+2022-11-01 12:57:41:5741 - [35mhttp[39m : [35mGET /bird 304 - - 54.186 ms[39m
+[35m[39m
+2022-11-01 12:57:41:5741 - [35mhttp[39m : [35mGET /bird 304 - - 46.218 ms[39m
+[35m[39m
+2022-11-01 13:34:13:3413 - [35mhttp[39m : [35mGET /bird 304 - - 50.766 ms[39m
+[35m[39m
+2022-11-01 13:34:13:3413 - [35mhttp[39m : [35mGET /bird 304 - - 45.070 ms[39m
+[35m[39m
+2022-11-01 13:34:44:3444 - [35mhttp[39m : [35mGET /bird 304 - - 52.256 ms[39m
+[35m[39m
+2022-11-01 13:34:44:3444 - [35mhttp[39m : [35mGET /bird 304 - - 45.566 ms[39m
+[35m[39m
+2022-11-01 13:51:53:5153 - [35mhttp[39m : [35mGET /bird 304 - - 46.175 ms[39m
+[35m[39m
+2022-11-01 13:51:53:5153 - [35mhttp[39m : [35mGET /bird 304 - - 45.901 ms[39m
+[35m[39m
+2022-11-01 13:52:44:5244 - [35mhttp[39m : [35mGET /bird 304 - - 61.085 ms[39m
+[35m[39m
+2022-11-01 13:52:44:5244 - [35mhttp[39m : [35mGET /bird 304 - - 63.173 ms[39m
+[35m[39m
+2022-11-01 13:52:58:5258 - [35mhttp[39m : [35mGET /bird 304 - - 48.096 ms[39m
+[35m[39m
+2022-11-01 13:52:58:5258 - [35mhttp[39m : [35mGET /bird 304 - - 45.761 ms[39m
+[35m[39m
+2022-11-01 13:53:18:5318 - [35mhttp[39m : [35mGET /bird 304 - - 50.015 ms[39m
+[35m[39m
+2022-11-01 13:53:18:5318 - [35mhttp[39m : [35mGET /bird 304 - - 51.013 ms[39m
+[35m[39m
+2022-11-01 13:53:41:5341 - [35mhttp[39m : [35mGET /bird 304 - - 48.891 ms[39m
+[35m[39m
+2022-11-01 13:53:56:5356 - [35mhttp[39m : [35mGET /bird 304 - - 51.411 ms[39m
+[35m[39m
+2022-11-01 13:54:17:5417 - [35mhttp[39m : [35mGET /bird 304 - - 46.448 ms[39m
+[35m[39m
+2022-11-01 13:54:17:5417 - [35mhttp[39m : [35mGET /bird 304 - - 47.175 ms[39m
+[35m[39m
+2022-11-01 13:56:08:568 - [35mhttp[39m : [35mGET /bird 304 - - 46.846 ms[39m
+[35m[39m
+2022-11-01 13:56:13:5613 - [35mhttp[39m : [35mGET /bird 304 - - 51.977 ms[39m
+[35m[39m
+2022-11-01 13:56:19:5619 - [35mhttp[39m : [35mGET /bird 304 - - 45.349 ms[39m
+[35m[39m
+2022-11-01 13:56:19:5619 - [35mhttp[39m : [35mGET /bird 304 - - 43.787 ms[39m
+[35m[39m
+2022-11-01 13:57:04:574 - [35mhttp[39m : [35mGET /bird 304 - - 46.870 ms[39m
+[35m[39m
+2022-11-01 13:57:18:5718 - [35mhttp[39m : [35mGET /bird 304 - - 47.028 ms[39m
+[35m[39m
+2022-11-01 13:57:18:5718 - [35mhttp[39m : [35mGET /bird 304 - - 44.188 ms[39m
+[35m[39m
+2022-11-01 13:58:05:585 - [35mhttp[39m : [35mGET /bird 304 - - 61.974 ms[39m
+[35m[39m
+2022-11-01 13:59:18:5918 - [35mhttp[39m : [35mGET /bird 304 - - 45.103 ms[39m
+[35m[39m
+2022-11-01 13:59:18:5918 - [35mhttp[39m : [35mGET /bird 304 - - 45.103 ms[39m
+[35m[39m
+2022-11-01 13:59:26:5926 - [35mhttp[39m : [35mGET /bird 304 - - 48.161 ms[39m
+[35m[39m
+2022-11-01 13:59:26:5926 - [35mhttp[39m : [35mGET /bird 304 - - 44.475 ms[39m
+[35m[39m
+2022-11-01 13:59:38:5938 - [35mhttp[39m : [35mGET /bird 304 - - 48.929 ms[39m
+[35m[39m
+2022-11-01 13:59:49:5949 - [35mhttp[39m : [35mGET /bird 304 - - 159.663 ms[39m
+[35m[39m
+2022-11-01 13:59:49:5949 - [35mhttp[39m : [35mGET /bird 304 - - 49.119 ms[39m
+[35m[39m
+2022-11-01 13:59:53:5953 - [35mhttp[39m : [35mGET /bird 304 - - 47.558 ms[39m
+[35m[39m
+2022-11-01 13:59:54:5954 - [35mhttp[39m : [35mGET /bird 304 - - 46.197 ms[39m
+[35m[39m
+2022-11-01 14:03:34:334 - [35mhttp[39m : [35mGET /bird 304 - - 43.440 ms[39m
+[35m[39m
+2022-11-01 14:03:34:334 - [35mhttp[39m : [35mGET /bird 304 - - 43.774 ms[39m
+[35m[39m
+2022-11-01 14:03:40:340 - [35mhttp[39m : [35mGET /bird 304 - - 44.486 ms[39m
+[35m[39m
+2022-11-01 14:03:40:340 - [35mhttp[39m : [35mGET /bird 304 - - 45.054 ms[39m
+[35m[39m
+2022-11-01 14:03:50:350 - [35mhttp[39m : [35mGET /bird 304 - - 43.418 ms[39m
+[35m[39m
+2022-11-01 14:03:50:350 - [35mhttp[39m : [35mGET /bird 304 - - 42.203 ms[39m
+[35m[39m
+2022-11-01 14:04:03:43 - [35mhttp[39m : [35mGET /bird 304 - - 54.350 ms[39m
+[35m[39m
+2022-11-01 14:04:04:44 - [35mhttp[39m : [35mGET /bird 304 - - 45.502 ms[39m
+[35m[39m
+2022-11-01 14:04:04:44 - [35mhttp[39m : [35mGET /bird 304 - - 53.191 ms[39m
+[35m[39m
+2022-11-01 14:04:11:411 - [35mhttp[39m : [35mGET /bird 304 - - 44.200 ms[39m
+[35m[39m
+2022-11-01 14:04:11:411 - [35mhttp[39m : [35mGET /bird 304 - - 43.738 ms[39m
+[35m[39m
+2022-11-01 14:04:13:413 - [35mhttp[39m : [35mGET /bird 304 - - 42.248 ms[39m
+[35m[39m
+2022-11-01 14:04:13:413 - [35mhttp[39m : [35mGET /bird 304 - - 42.289 ms[39m
+[35m[39m
+2022-11-01 14:05:18:518 - [35mhttp[39m : [35mGET /bird 304 - - 46.251 ms[39m
+[35m[39m
+2022-11-01 14:05:18:518 - [35mhttp[39m : [35mGET /bird 304 - - 43.445 ms[39m
+[35m[39m
+2022-11-01 14:07:07:77 - [35mhttp[39m : [35mGET /bird 304 - - 43.569 ms[39m
+[35m[39m
+2022-11-01 14:11:01:111 - [35mhttp[39m : [35mGET /bird 304 - - 51.491 ms[39m
+[35m[39m
+2022-11-01 14:11:01:111 - [35mhttp[39m : [35mGET /bird 304 - - 53.046 ms[39m
+[35m[39m
+2022-11-01 14:11:49:1149 - [35mhttp[39m : [35mGET /bird 304 - - 46.439 ms[39m
+[35m[39m
+2022-11-01 14:11:49:1149 - [35mhttp[39m : [35mGET /bird 304 - - 55.951 ms[39m
+[35m[39m
+2022-11-01 14:13:01:131 - [35mhttp[39m : [35mGET /bird 304 - - 44.241 ms[39m
+[35m[39m
+2022-11-01 14:13:01:131 - [35mhttp[39m : [35mGET /bird 304 - - 44.104 ms[39m
+[35m[39m
+2022-11-01 14:13:13:1313 - [35mhttp[39m : [35mGET /bird 304 - - 51.674 ms[39m
+[35m[39m
+2022-11-01 14:13:13:1313 - [35mhttp[39m : [35mGET /bird 304 - - 45.843 ms[39m
+[35m[39m
+2022-11-01 14:13:20:1320 - [35mhttp[39m : [35mGET /bird 304 - - 48.218 ms[39m
+[35m[39m
+2022-11-01 14:13:20:1320 - [35mhttp[39m : [35mGET /bird 304 - - 46.066 ms[39m
+[35m[39m
+2022-11-01 14:13:30:1330 - [35mhttp[39m : [35mGET /bird 304 - - 321.605 ms[39m
+[35m[39m
+2022-11-01 14:13:30:1330 - [35mhttp[39m : [35mGET /bird 304 - - 52.177 ms[39m
+[35m[39m
+2022-11-01 14:13:43:1343 - [35mhttp[39m : [35mGET /bird 304 - - 45.547 ms[39m
+[35m[39m
+2022-11-01 14:13:43:1343 - [35mhttp[39m : [35mGET /bird 304 - - 49.604 ms[39m
+[35m[39m
+2022-11-01 14:13:46:1346 - [35mhttp[39m : [35mGET /bird 304 - - 45.099 ms[39m
+[35m[39m
+2022-11-01 14:13:46:1346 - [35mhttp[39m : [35mGET /bird 304 - - 48.563 ms[39m
+[35m[39m
+2022-11-01 14:13:52:1352 - [35mhttp[39m : [35mGET /bird 304 - - 49.936 ms[39m
+[35m[39m
+2022-11-01 14:13:52:1352 - [35mhttp[39m : [35mGET /bird 304 - - 44.571 ms[39m
+[35m[39m
+2022-11-01 14:13:56:1356 - [35mhttp[39m : [35mGET /bird 304 - - 45.416 ms[39m
+[35m[39m
+2022-11-01 14:13:56:1356 - [35mhttp[39m : [35mGET /bird 304 - - 46.516 ms[39m
+[35m[39m
+2022-11-01 14:14:08:148 - [35mhttp[39m : [35mGET /bird 304 - - 46.883 ms[39m
+[35m[39m
+2022-11-01 14:14:08:148 - [35mhttp[39m : [35mGET /bird 304 - - 49.378 ms[39m
+[35m[39m
+2022-11-01 14:14:11:1411 - [35mhttp[39m : [35mGET /bird 304 - - 47.004 ms[39m
+[35m[39m
+2022-11-01 14:14:11:1411 - [35mhttp[39m : [35mGET /bird 304 - - 46.386 ms[39m
+[35m[39m
+2022-11-01 14:14:15:1415 - [35mhttp[39m : [35mGET /bird 304 - - 45.898 ms[39m
+[35m[39m
+2022-11-01 14:14:15:1415 - [35mhttp[39m : [35mGET /bird 304 - - 48.800 ms[39m
+[35m[39m
+2022-11-01 14:14:19:1419 - [35mhttp[39m : [35mGET /bird 304 - - 45.548 ms[39m
+[35m[39m
+2022-11-01 14:14:19:1419 - [35mhttp[39m : [35mGET /bird 304 - - 42.681 ms[39m
+[35m[39m
+2022-11-01 14:14:25:1425 - [35mhttp[39m : [35mGET /bird 304 - - 43.756 ms[39m
+[35m[39m
+2022-11-01 14:14:25:1425 - [35mhttp[39m : [35mGET /bird 304 - - 51.847 ms[39m
+[35m[39m
+2022-11-01 14:14:29:1429 - [35mhttp[39m : [35mGET /bird 304 - - 43.922 ms[39m
+[35m[39m
+2022-11-01 14:14:29:1429 - [35mhttp[39m : [35mGET /bird 304 - - 46.009 ms[39m
+[35m[39m
+2022-11-01 14:14:33:1433 - [35mhttp[39m : [35mGET /bird 304 - - 57.103 ms[39m
+[35m[39m
+2022-11-01 14:14:33:1433 - [35mhttp[39m : [35mGET /bird 304 - - 47.488 ms[39m
+[35m[39m
+2022-11-01 14:14:35:1435 - [35mhttp[39m : [35mGET /bird 304 - - 46.648 ms[39m
+[35m[39m
+2022-11-01 14:14:35:1435 - [35mhttp[39m : [35mGET /bird 304 - - 52.967 ms[39m
+[35m[39m
+2022-11-01 14:15:21:1521 - [35mhttp[39m : [35mGET /bird 304 - - 45.957 ms[39m
+[35m[39m
+2022-11-01 14:15:24:1524 - [35mhttp[39m : [35mGET /bird 304 - - 50.464 ms[39m
+[35m[39m
+2022-11-01 14:15:24:1524 - [35mhttp[39m : [35mGET /bird 304 - - 47.395 ms[39m
+[35m[39m
+2022-11-01 14:15:41:1541 - [35mhttp[39m : [35mGET /bird 304 - - 48.536 ms[39m
+[35m[39m
+2022-11-01 14:16:03:163 - [35mhttp[39m : [35mGET /bird 304 - - 47.656 ms[39m
+[35m[39m
+2022-11-01 14:16:03:163 - [35mhttp[39m : [35mGET /bird 304 - - 45.497 ms[39m
+[35m[39m
+2022-11-01 14:16:13:1613 - [35mhttp[39m : [35mGET /bird 304 - - 68.705 ms[39m
+[35m[39m
+2022-11-01 14:16:34:1634 - [35mhttp[39m : [35mGET /bird 304 - - 47.718 ms[39m
+[35m[39m
+2022-11-01 14:16:34:1634 - [35mhttp[39m : [35mGET /bird 304 - - 47.185 ms[39m
+[35m[39m
+2022-11-01 14:16:39:1639 - [35mhttp[39m : [35mGET /bird 304 - - 45.959 ms[39m
+[35m[39m
+2022-11-01 14:16:39:1639 - [35mhttp[39m : [35mGET /bird 304 - - 48.497 ms[39m
+[35m[39m
+2022-11-01 14:16:50:1650 - [35mhttp[39m : [35mGET /bird 304 - - 51.270 ms[39m
+[35m[39m
+2022-11-01 14:16:50:1650 - [35mhttp[39m : [35mGET /bird 304 - - 52.562 ms[39m
+[35m[39m
+2022-11-01 14:17:57:1757 - [35mhttp[39m : [35mGET /bird 304 - - 67.131 ms[39m
+[35m[39m
+2022-11-01 14:17:57:1757 - [35mhttp[39m : [35mGET /bird 304 - - 51.258 ms[39m
+[35m[39m
+2022-11-01 14:18:31:1831 - [35mhttp[39m : [35mGET /bird/63607640eeface7332c1ab7a 200 329 - 46.833 ms[39m
+[35m[39m
+2022-11-01 14:18:31:1831 - [35mhttp[39m : [35mGET /bird/63607640eeface7332c1ab7a 304 - - 48.165 ms[39m
+[35m[39m
+2022-11-01 14:20:53:2053 - [35mhttp[39m : [35mGET /bird 304 - - 45.528 ms[39m
+[35m[39m
+2022-11-01 14:20:53:2053 - [35mhttp[39m : [35mGET /bird 304 - - 43.437 ms[39m
+[35m[39m

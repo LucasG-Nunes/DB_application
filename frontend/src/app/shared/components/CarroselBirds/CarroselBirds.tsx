@@ -3,13 +3,17 @@
     import Slider from '../Slider/Slider';
     import CardSlider from '../Slider/CardSlider/CardSlider';
 
+
     const CarroselBirds = () => {
         const {birds} = useAxios();
 
+        
+    
+        let largura = window.screen.width;
 
+        
         const settings = {
             spaceBetween:50,
-            slidesPerView:3,
             navigation: true,
             loop:true,
             draggable:true,
@@ -26,10 +30,10 @@
         { birds 
         ?
  
-        <Slider settings={settings}>
+        <Slider settings={{...settings,slidesPerView: largura <=600 ? 1 : 3}}>
 
             {birds.map((bird)=>
-            <SwiperSlide>
+            <SwiperSlide  key={bird._id}>
                 <CardSlider identifier={bird._id} img={bird.image} title={bird.portugueseName}/>
             </SwiperSlide> 
         )}

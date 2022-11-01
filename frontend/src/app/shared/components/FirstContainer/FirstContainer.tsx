@@ -10,7 +10,7 @@ const FirstContainer = ({ title, paragraph }: IContainer) => {
                 <p>{paragraph}</p>
                 <div className={style.buttons}>
                     <Link to="/avistamento" className={style.buttonCadastrar}>Cadastrar novo avistamento</Link>
-                    <Link to="/SearchBird"  className={style.buttonCadastrar}>Procurar algum passáro no banco de dados</Link>
+                    <Link to="/SearchBird"  className={style.buttonCadastrar}>Procurar algum pássaro no banco de dados</Link>
                 </div>
             </article>
 
