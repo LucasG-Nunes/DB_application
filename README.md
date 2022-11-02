@@ -38,6 +38,7 @@
     <img align="center" alt="Lucas-Axios" height="40" width="80" src="https://user-images.githubusercontent.com/84019679/199379032-1135f5e2-ba2f-4fe5-b4e0-c6f00c2336ce.png">
   <img align="center" alt="Lucas-Swiper" height="40" width="80" src="https://user-images.githubusercontent.com/84019679/199379139-605b41ed-d588-403b-bc37-aee7a1d78810.png">
   <img align="center" alt="Lucas-Mongoose" height="40" width="100" src="https://user-images.githubusercontent.com/84019679/199379558-7abb7de8-e47e-4b4f-818e-a5fecc1a3518.png">
+    <img align="center" alt="Lucas-Cloudinary" height="100" width="100" src="https://user-images.githubusercontent.com/84019679/199381483-01e8d63b-4c61-4c98-a790-dcff9529fcbc.png">
 
 </div>
 
