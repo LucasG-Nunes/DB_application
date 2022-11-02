@@ -35,8 +35,8 @@
  
    <div style="display: inline_block"><br>
 
-    <img align="center" alt="Lucas-Axios" height="40" width="200" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-  <img align="center" alt="Lucas-Ts" height="40" width="40" src="https://user-images.githubusercontent.com/84019679/199375358-c16759c3-7d05-48d5-a44a-f99697f59280.png">
+    <img align="center" alt="Lucas-Axios" height="40" width="80" src="https://user-images.githubusercontent.com/84019679/199379032-1135f5e2-ba2f-4fe5-b4e0-c6f00c2336ce.png">
+  <img align="center" alt="Lucas-Swiper" height="40" width="80" src="https://user-images.githubusercontent.com/84019679/199379139-605b41ed-d588-403b-bc37-aee7a1d78810.png">
   <img align="center" alt="Lucas-MongoDB" height="40" width="100" src="https://user-images.githubusercontent.com/84019679/199377148-32165b73-741c-43d5-a859-56e37a378d0b.png">
 
 </div>
