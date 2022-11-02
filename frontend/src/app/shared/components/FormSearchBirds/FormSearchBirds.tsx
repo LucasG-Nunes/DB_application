@@ -33,10 +33,6 @@ const FormSearchBirds = () => {
       },3000)
     }
     
-    const handleSubmit = (event:FormEvent<HTMLFormElement>) =>{
-        event.preventDefault()
-        loading()
-    }
     const arrayFilter = filter(value,filtro)
 
   function filter(value:string,filtro?:string){

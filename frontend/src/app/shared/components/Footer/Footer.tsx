@@ -4,7 +4,9 @@ type Props = {}
 
 const Footer = (props: Props) => {
   return (
-    <div className={style.footer}>Footer</div>
+    <footer className={style.footer}>
+      <span> @2022 - Desenvolvido por Lucas Gabriel & Julia Cruz </span>
+    </footer>
   )
 }
 
