@@ -25,7 +25,7 @@
    <div style="display: inline_block"><br>
 
     <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-  <img align="center"  height="40" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
+  <img align="center" alt="Lucas-Ts" height="40" width="40" src="https://user-images.githubusercontent.com/84019679/199375358-c16759c3-7d05-48d5-a44a-f99697f59280.png">
   <img align="center"  height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
 
 </div>
