@@ -59,7 +59,7 @@
   <li>cd frontend</li>
   <li>npm install</li> 
   <li>npm start</li> 
-  <li>*Clique em:* y</li> 
+  <li>*Clique em* y</li> 
  </ul>
 
 
