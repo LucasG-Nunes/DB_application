@@ -1,14 +1,13 @@
 ## 📁 DB Application
 
-<h3>Project to control stock being able to
-consult all stocks registered in the system, create, edit and delete any product.</h3>
-<p>I used it for the front end React, Material UI and JavaScript. Using axios to connect to my backend. And for the back end I used Node.js with express to create the routes and server and I also used docker with postgres for the database.</p>
+<h3>Aplicação desenvolvida para Ornitogos com o intuito de pesquisar sobre pássaros e cadastrar seus últimos avistamentos.</h3>
+<p>No Front-End foi usado React com Typescript, no Back-End foi uitlizado Node com Express, Typescript, Morgan e Winston para loggers. Utilizamos MongoDB como BD e Mongoose como ODM.</p>
 
 ## :hammer: Project features
 
-- `Funcionalidade 1`: Ter um espaço onde será feito o login e apresentado os estoques atuais.
-- `Funcionalidade 2`: Efetuar adições nos estoques.
-- `Funcionalidade 3`: Editar os estoques.
+- `Funcionalidade 1`: Pesquisar todos os pássaros cadastrados no nosso sistema.
+- `Funcionalidade 2`: Adicionar novos avistamentos.
+- `Funcionalidade 3`: Filtrar por habitat e nome em português.
 
 ## ✔️ Techniques and technologies used
 
