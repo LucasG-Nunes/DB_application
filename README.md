@@ -17,7 +17,6 @@ consult all stocks registered in the system, create, edit and delete any product
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="Lucas-Axios" height="40" width="40" src="https://v4.material-ui.com/static/logo.png">
   <img align="center" alt="Lucas-Ts" height="40" width="40" src="https://user-images.githubusercontent.com/84019679/199375358-c16759c3-7d05-48d5-a44a-f99697f59280.png">
 </div>
 
