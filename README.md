@@ -43,17 +43,23 @@
 
 
 ## 🛠️ Abrir e Inicializar Projeto
-<p>Para inicir o seu projeto começaremos abrindo o seu terminal na pasta que você queira clonar o nosso projeto e irá digitar "git clone " </p>
+<p>Para inicir o seu projeto começaremos abrindo o seu terminal na pasta que você queira clonar o nosso projeto e irá digitar "git clone https://github.com/LucasG-Nunes/DB_application.git " </p>
+
+<p>Após abrir a sua IDE na pasta que contem o clone do projeto, iremos ao diretório que contem o BackEnd, instalaremos as dependências do projeto e iniciaremos o servidor com conexão ao BD.</p>
+
 <ul>
-  <li>npm start</li>
+  <li>cd BackEnd</li>
   <li>npm install</li> 
- </ul>
- <p>For the back end remember to install docker and use the following commands to start, install dependencies and check models:</p>
-<ul>
-  <li>npm run dev</li>
-  <li>npm install</li>
-  <li>npx prisma studio</li> 
+  <li>npm run dev</li> 
  </ul>
 
-<h4>Link no linkedin para visualização do projeto em funcionamento</h4>
-<p>https://www.linkedin.com/feed/update/urn:li:activity:6938544815240323072/</p>
+<span>Agora iremos iniciar o nosso Front-End. Abrindo outro terminal da sua IDE e indo até o diretório frontned, instalaremos as dependências e iniciaremos a nossa aplicação. </span>
+
+<ul>
+  <li>cd frontend</li>
+  <li>npm install</li> 
+  <li>npm start</li> 
+  <li>*Clique em:* y</li> 
+ </ul>
+
+
